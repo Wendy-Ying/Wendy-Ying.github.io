@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Homepage - Wendy-Ying"
+title                    : "Wendy's Homepage"
 title_separator          : "-"
 name                     : &name "Wendy-Ying"
 description              : &description "Focusing on Planning."
