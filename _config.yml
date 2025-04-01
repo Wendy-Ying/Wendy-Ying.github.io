@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Welcome to Wendy Ying's Homepage!"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Wendy-Ying"
 description              : &description "Focusing on Planning."
@@ -22,10 +22,10 @@ repository               : "Wendy-Ying/Wendy-Ying.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/photo.png"
-  name             : "Wendy-Ying"
+  avatar           : "photo.png"
+  name             : "Yiwen Ying"
   pronouns         : # example: "she/her"  
-  bio              : "Focusing on Planning."
+  bio              : "Junior Student at SUSTech"
   location         : "ShenZhen"
   employer         : "SUSTech"
   uri              : # URL
