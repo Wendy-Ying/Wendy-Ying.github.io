@@ -30,11 +30,11 @@ My personal CV is attached here. If you are interested in my research or have an
 - <a href='https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS'>Fast Positioning Indoor Vehicle with Visual Gimbal Based on UWB and ROS</a>, Yiwen Ying, Guoheng Ma, Bingyang Wang.
 - <a href='https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab'> Mobile Robot Navigation and Homing</a>, Yiwen Ying, Weiyu Chen.
 - <a href='https://github.com/Wendy-Ying/Intelligent-Image-Scaling-System-Based-on-Seam-Carving-Algorithm'>Intelligent Image Scaling System Based on Seam Carving Algorithm</a>, Yiwen Ying, JingJun Xu, Yijia Wang.
-- <a href='https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction'>AI4I Binary Classification Prediction</a>Yiwen Ying.
+- <a href='https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction'>AI4I Binary Classification Prediction</a>, Yiwen Ying.
 - <a href='https://github.com/Wendy-Ying/Electronic-Ocarina'>Electronic Ocarina</a>, Yiwen Ying, Weiyu Chen, Xingchen Xiao.
 - <a href='https://github.com/Wendy-Ying/PokeSnap'>PokeSnap</a>, Yiwen Ying, Weiyu Chen.
 - <a href='https://github.com/Wendy-Ying/Speech-Synthesis-And-Perception-With-Envelope-Cue'>Speech Synthesis And Perception With Envelope Cue</a>, Yiwen Ying, Weiyu Chen, JingJun Xu, Jiachen Zhou.
-- <a href='https://github.com/Wendy-Ying/Computer-Generate-Music'>Computer Generate Music</a>, Yiwen Ying.
+- <a href='https://github.com/Wendy-Ying/Computer-Generate-Music'>Computer-Generated Music</a>, Yiwen Ying.
 
 # 📖 Educations
 - *2022.09 - present*, Bachelor of Engineering, Department of Electronic and Electrical Engineering, Southern University of Science and Technology.
@@ -49,6 +49,6 @@ My personal CV is attached here. If you are interested in my research or have an
 - *2024.06*, Outstanding Project in “Innovative Experiments”, Department of EE in SUSTech.
 - *2023.12*, First Prize of Guangdong Province, 15th National University Student Mathematics Competition.
 
-# 📚 Student Works
+# 📚 Student Work
 - *2024.11 - 2025.11*, President of Student Union of Department of EE in SUSTech.
 - *2024.12 - 2025.01*, Peer Tutor for Undergraduate Course Signals and Systems.
