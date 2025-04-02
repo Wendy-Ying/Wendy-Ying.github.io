@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-Hi, there! 👋 Welcome to YiwenYing's Homepage.
+Hi, there! 👋 Welcome to Yiwen Ying's Homepage.
 
 I am a junior student at <a href='rcvlab.eee.sustech.edu.cn'>Robot and Computer Vision Lab</a>, from the Department of Electronic and Electrical Engineering in <a href='sustech.edu.cn'>Southern University of Science and Technology</a>, adviced by Professor <a href='https://scholar.google.com/citations?hl=zh-CN&user=J7UkpAIAAAAJ'>Hong Zhang</a>.
 
-My research interest focus on trajectory planning for UAVs. My programming expertise spans Python, C++, and MATLAB. I am familiar with learning-based algorithms, model-based algorithms for robot trajectory planning, embedded systems, SLAM technology, and I have rich experience in robotics algorithm development.
+My research interest focuses on trajectory planning for UAVs. My programming expertise spans Python, C++, and MATLAB. I am familiar with learning-based algorithms, model-based algorithms for robot trajectory planning, embedded systems, SLAM technology, and I have rich experience in robotics algorithm development.
 
-My personal CV is attached here. If you are interested in my research or have any questions, please feel free to contact me at <a href='mailto:yingyw2022@mail.sustech.edu.cn'>yingyw2022@mail.sustech.edu.cn</a>.
+My personal CV is attached <a href='/files/resume.pdf'>here</a>. If you are interested in my research or have any questions, please feel free to contact me at <a href='mailto:yingyw2022@mail.sustech.edu.cn'>yingyw2022@mail.sustech.edu.cn</a>.
 
 # 🔥 News
 - 
@@ -48,6 +48,6 @@ My personal CV is attached here. If you are interested in my research or have an
 - *2024.06*, Outstanding Project in “Innovative Experiments”, Department of EE in SUSTech.
 - *2023.12*, First Prize of Guangdong Province, 15th National University Student Mathematics Competition.
 
-# 📚 Student Work
+# 📚 Work Experience
 - *2024.11 - 2025.11*, President of Student Union of Department of EE in SUSTech.
 - *2024.12 - 2025.01*, Peer Tutor for Undergraduate Course Signals and Systems.
