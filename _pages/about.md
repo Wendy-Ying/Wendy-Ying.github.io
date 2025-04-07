@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hi, there! 👋 Welcome to Yiwen Ying's Homepage.
 
-I am a junior student at <a href='rcvlab.eee.sustech.edu.cn'>Robot and Computer Vision Lab</a>, from the Department of Electronic and Electrical Engineering in <a href='sustech.edu.cn'>Southern University of Science and Technology</a>, adviced by Professor <a href='https://scholar.google.com/citations?hl=zh-CN&user=J7UkpAIAAAAJ'>Hong Zhang</a>.
+I am a junior student at <a href='rcvlab.eee.sustech.edu.cn'>Robot and Computer Vision Lab</a>, from the Department of Electronic and Electrical Engineering in <a href='sustech.edu.cn'>Southern University of Science and Technology</a>, adviced by Professor <a href='https://scholar.google.com/citations?user=J7UkpAIAAAAJ'>Hong Zhang</a>.
 
 My research interest focuses on trajectory planning for UAVs. My programming expertise spans Python, C++, and MATLAB. I am familiar with learning-based algorithms, model-based algorithms for robot trajectory planning, embedded systems, SLAM technology, and I have rich experience in robotics algorithm development.
 
@@ -49,5 +49,5 @@ My personal CV is attached <a href='/files/resume.pdf'>here</a>. If you are inte
 - *2023.12*, First Prize of Guangdong Province, 15th National University Student Mathematics Competition.
 
 # 📚 Work Experience
-- *2024.11 - 2025.11*, President of Student Union of Department of EE in SUSTech.
+- *2024.09 - 2025.09*, President of Student Union of Department of EE in SUSTech.
 - *2024.12 - 2025.01*, Peer Tutor for Undergraduate Course Signals and Systems.
