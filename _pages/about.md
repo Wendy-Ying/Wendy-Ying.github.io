@@ -25,7 +25,7 @@ My personal CV is attached <a href='/files/resume.pdf'>here</a>. If you are inte
 - Global Re-localization in Semi-Dynamic Scenes
 - Precise 3D Reconstruction from Object Images
 
-# 🎁 Projects
+# 🎁 Project
 - <a href='https://github.com/Wendy-Ying/Universal-Building-Delivery-Robot'>Universal Building Delivery Robot</a>, Yiwen Ying, Bingyang Wang, Guangcheng Chen, Jiarui Xu, Senzi Luo, Wenlong Dong, Guoheng Ma, Wei Pan.
 - <a href='https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach'>Sign Language Translation System Based on Visual Approach</a>, Yiwen Ying.
 - <a href='https://github.com/Wendy-Ying/Fully-Automated-Highly-Compatible-Detection-Combat-Investigated-UAV'>Fully Automated, Highly Compatible, Detection-Combat Investigated UAV</a>, Yiwen Ying, Guoheng Ma, Bingyang Wang.
@@ -36,11 +36,11 @@ My personal CV is attached <a href='/files/resume.pdf'>here</a>. If you are inte
 - <a href='https://github.com/Wendy-Ying/Electronic-Ocarina'>Electronic Ocarina</a>, Yiwen Ying, Weiyu Chen, Xingchen Xiao.
 - <a href='https://github.com/Wendy-Ying/Speech-Synthesis-And-Perception-With-Envelope-Cue'>Speech Synthesis And Perception With Envelope Cue</a>, Yiwen Ying, Weiyu Chen, Jingjun Xu, Jiachen Zou.
 
-# 📖 Educations
+# 📖 Education
 - *2022.09 - present*, Bachelor of Engineering, Department of Electronic and Electrical Engineering, Southern University of Science and Technology.
 - *2019.09 - 2022.06*, High School Student, No.2 High School of East China Normal University.
 
-# 💻 Internships
+# 💻 Internship
 - *2025.01 - present*, Research Intern, FAST Lab (FAR Group), Zhejiang University.
 - *2024.08 - 2024.11*, Research Intern, CV-AI Lab, Tsinghua University.
 
