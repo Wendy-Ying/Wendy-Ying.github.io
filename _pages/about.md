@@ -22,7 +22,7 @@ My personal CV is attached <a href='/files/resume.pdf'>here</a>. If you are inte
 
 # 📝 Research 
 - Diffusion-Based Motion Planning
-- Global Re-localization in Semi-Dynamic Scenes
+- Global Re-Localization in Semi-Dynamic Scenes
 - Precise 3D Reconstruction from Object Images
 
 # 🎁 Project
