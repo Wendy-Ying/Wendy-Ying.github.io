@@ -26,13 +26,16 @@ My personal CV is attached <a href='/files/resume.pdf'>here</a>. If you are inte
 - Precise 3D Reconstruction from Object Images
 
 # 🎁 Project
-- <a href='https://github.com/Wendy-Ying/Universal-Building-Delivery-Robot'>Universal Building Delivery Robot</a>, Yiwen Ying, Bingyang Wang, Guangcheng Chen, Jiarui Xu, Senzi Luo, Wenlong Dong, Guoheng Ma, Wei Pan.
+- <a href='https://github.com/Wendy-Ying/neupan_ros'>Universal Building Delivery Robot</a>, Yiwen Ying, Bingyang Wang, Guangcheng Chen, Jiarui Xu, Senzi Luo, Wenlong Dong, Guoheng Ma, Wei Pan.
 - <a href='https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach'>Sign Language Translation System Based on Visual Approach</a>, Yiwen Ying.
 - <a href='https://github.com/Wendy-Ying/Fully-Automated-Highly-Compatible-Detection-Combat-Investigated-UAV'>Fully Automated, Highly Compatible, Detection-Combat Investigated UAV</a>, Yiwen Ying, Guoheng Ma, Bingyang Wang.
 - <a href='https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab'>Mobile Robot Navigation and Homing</a>, Yiwen Ying, Weiyu Chen.
+- <a href='https://github.com/Wendy-Ying/rrt_planner'>Efficient Path Planning and Grasping for a Robotic Arm Using RRT</a>, Yiwen Ying, Weiyu Chen.
 - <a href='https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS'>Fast Positioning Indoor Vehicle with Visual Gimbal Based on UWB and ROS</a>, Yiwen Ying, Guoheng Ma, Bingyang Wang.
 - <a href='https://github.com/Wendy-Ying/Intelligent-Image-Scaling-System-Based-on-Seam-Carving-Algorithm'>Intelligent Image Scaling System Based on Seam Carving Algorithm</a>, Yiwen Ying, Jingjun Xu, Yijia Wang.
 - <a href='https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction'>AI4I Binary Classification Prediction</a>, Yiwen Ying.
+- <a href='https://github.com/Wendy-Ying/Smart-Combination-Lock'>Smart Conbination Lock</a>, Yiwen Ying, Jingjun Xu.
+- <a href='https://github.com/Wendy-Ying/PokeSnap'>PokeSnap</a>, Yiwen Ying, Weiyu Chen.
 - <a href='https://github.com/Wendy-Ying/Electronic-Ocarina'>Electronic Ocarina</a>, Yiwen Ying, Weiyu Chen, Xingchen Xiao.
 - <a href='https://github.com/Wendy-Ying/Speech-Synthesis-And-Perception-With-Envelope-Cue'>Speech Synthesis And Perception With Envelope Cue</a>, Yiwen Ying, Weiyu Chen, Jingjun Xu, Jiachen Zou.
 
@@ -45,9 +48,9 @@ My personal CV is attached <a href='/files/resume.pdf'>here</a>. If you are inte
 - *2024.08 - 2024.11*, Research Intern, CV-AI Lab, Tsinghua University.
 
 # 🎉 Honors and Awards
-- *2024.12*, Aunnal Student Model of Excellence in Year 2024, SUSTech.
-- *2024.06*, Outstanding Project in “Innovative Experiments”, Dept. of EE in SUSTech.
-- *2023.12*, First Prize of Guangdong Province, 15th National University Student Mathematics Competition.
+- *2024.12*, Aunnal Student Model of Excellence in Year 2024, SUSTech. (7/3990)
+- *2024.06*, Outstanding Project in “Innovative Experiments”, Dept. of EE in SUSTech. (5/107)
+- *2023.12*, First Prize of Guangdong Province, 15th National University Student Mathematics Competition. (Top 7%)
 
 # 📚 Work Experience
 - *2024.09 - 2025.09*, President of Student Union of Dept. of EE in SUSTech.
