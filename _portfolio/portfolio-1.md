@@ -1,6 +1,6 @@
 ---
 title: "Robot Navigation in Complex Challenging Scenarios"
-excerpt: "<img src='/images/video1.gif' width='75%'>"
+excerpt: "<img src='/images/video1.gif' width='60%'>"
 collection: portfolio
 ---
 
