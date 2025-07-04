@@ -13,7 +13,7 @@ Hi, there! 👋 Welcome to Yiwen Ying's Homepage.
 
 I am a junior student at <a href='https://rcvlab.eee.sustech.edu.cn/'>Robot and Computer Vision Lab</a>, from the Department of Electronic and Electrical Engineering in <a href='https://www.sustech.edu.cn'>**Southern University of Science and Technology**</a>, supervised by <a href='https://scholar.google.com/citations?user=J7UkpAIAAAAJ'>Professor Hong Zhang</a>.
 
-My research interest focuses on **learning-based robot trajectory planning**. My programming expertise spans Python, C++, MATLAB and Java. I am familiar with learning-based algorithms, robot trajectory planning, embedded systems, SLAM technology, and I have rich experience in robotics algorithm development.
+My research interest focuses on **learning-based motion planning**. My programming expertise spans Python, C++, MATLAB and Java. I am familiar with learning-based algorithms, motion planning, embedded systems, SLAM technology, and I have rich experience in robotics algorithm development.
 
 My personal CV is attached <a href='/files/resume.pdf'>here</a>. If you are interested in my research or have any questions, please feel free to contact me at <a href='mailto:yingyw2022@mail.sustech.edu.cn'>yingyw2022@mail.sustech.edu.cn</a>.
 
