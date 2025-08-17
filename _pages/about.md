@@ -50,7 +50,6 @@ My personal CV is attached <a href='/files/resume.pdf'>here</a>. If you are inte
 
 # 🎉 Honors and Awards
 - *2024.12*, Aunnal Student Model of Excellence in Year 2024, SUSTech. (7/3990)
-- *2024.06*, Outstanding Project in “Innovative Experiments”, Dept. of EE in SUSTech. (5/107)
 - *2023.12*, First Prize of Guangdong Province, 15th National University Student Mathematics Competition. (Top 7%)
 
 # 📚 Work Experience
