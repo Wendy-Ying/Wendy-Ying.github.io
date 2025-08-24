@@ -17,8 +17,8 @@ My research interest focuses on **learning-based motion planning**. My programmi
 
 My personal CV is attached <a href='/files/resume.pdf'>here</a>. If you are interested in my research or have any questions, please feel free to contact me at <a href='mailto:yingyw2022@mail.sustech.edu.cn'>yingyw2022@mail.sustech.edu.cn</a>.
 
-<!-- # 🔥 News
--  -->
+# 🔥 News
+**Seeking for PhD opportunities!
 
 # 📝 Research 
 - MoMaIK: Diverse and Collision-Free Inverse Kinematics Solver for Mobile Manipulators
@@ -41,24 +41,24 @@ My personal CV is attached <a href='/files/resume.pdf'>here</a>. If you are inte
 - <a href='https://github.com/Wendy-Ying/Speech-Synthesis-And-Perception-With-Envelope-Cue'>Speech Synthesis and Perception with Envelope Cue</a>
 
 # 📖 Education
-- *2022.09 - present*, Bachelor of Engineering, Department of Electronic and Electrical Engineering, Southern University of Science and Technology.
-- *2019.09 - 2022.06*, High School Student, No.2 High School of East China Normal University.
+- 2022.09 - present, Bachelor of Engineering, Department of Electronic and Electrical Engineering, Southern University of Science and Technology.
+- 2019.09 - 2022.06, High School Student, No.2 High School of East China Normal University.
 
 # 💻 Research Experience
-- *2025.01 - present*, Research Intern, FAST Lab (FAR Group), Zhejiang University.
-- *2024.08 - 2024.11*, Research Intern, CV-AI Lab, Tsinghua University.
-- *2023.06 - present*, Research Intern, RCV Lab, Southern University of Science and Technology.
+- 2025.01 - present, Research Intern, FAST Lab (FAR Group), Zhejiang University.
+- 2024.08 - 2024.11, Research Intern, CV-AI Lab, Tsinghua University.
+- 2023.06 - present, Research Intern, RCV Lab, Southern University of Science and Technology.
 
 # 🎉 Honors and Awards
-- 2024, *Student Model of Excellence*, SUSTech (Top 7 among all undergraduates, 4000±)
-- 2024, *Outstanding Student Scholarship Second Prize*, SUSTech (Top 15%)
-- 2024, *Outstanding Project*, Dept. of EE., SUSTech (Top 5 out of 107, individual)
-- 2023, *Outstanding Student*, SUSTech (Top 489 among all undergraduates, 3700±)
-- 2023, *Outstanding Student Scholarship Second Prize*, SUSTech (Top 15%)
-- 2023, *First Prize*, Guangdong Province, National University Mathematics Competition (Top 7%)
-- 2024, *National Class 1 Athlete* (Mass Category), Women's 100m Breaststroke Swimming
-- 2024, *National Class 1 Athlete* (Mass Category), Women’s 50m Freestyle Swimming
+- 2024, Student Model of Excellence, SUSTech. (Top 7 among all undergraduates, 4000±)
+- 2024, Outstanding Student Scholarship Second Prize, SUSTech. (Top 15%)
+- 2024, Outstanding Project, Dept. of EE., SUSTech. (Top 5 out of 107, individual)
+- 2023, Outstanding Student, SUSTech. (Top 489 among all undergraduates, 3700±)
+- 2023, Outstanding Student Scholarship Second Prize, SUSTech. (Top 15%)
+- 2023, First Prize, Guangdong Province, National University Mathematics Competition. (Top 7%)
+- 2024, National Class 1 Athlete (Mass Category), Women's 100m Breaststroke Swimming.
+- 2024, National Class 1 Athlete (Mass Category), Women’s 50m Freestyle Swimming.
 
 # 📚 Work Experience
-- *2024.09 - 2025.09*, President of Student Union of Dept. of EE in SUSTech.
-- *2024.12 - 2025.01*, Peer Mentor for Undergraduate Course "Signals and Systems".
+- 2024.09 - 2025.09, President of Student Union of Dept. of EE in SUSTech.
+- 2024.12 - 2025.01, Peer Mentor for Undergraduate Course "Signals and Systems".
