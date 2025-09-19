@@ -50,14 +50,14 @@ My personal CV is attached <a href='/files/resume.pdf'>here</a>. If you are inte
 - 2023.06 - present, Research Intern, RCV Lab, Southern University of Science and Technology.
 
 # 🎉 Honors and Awards
-- 2024, Student Model of Excellence, SUSTech. (Top 7 among all undergraduates, 4000±)
-- 2023, Outstanding Student, SUSTech. (Top 489 among all undergraduates, 3700±)
-- 2024, Outstanding Student Scholarship Second Prize, SUSTech. (Top 15%)
-- 2023, Outstanding Student Scholarship Second Prize, SUSTech. (Top 15%)
-- 2023, First Prize, Guangdong Province, National University Mathmetics Competition. (Top 7%)
-- 2024, Outstanding Project, Dept. of EE., SUSTech. (Top 5 out of 107, individual)
-- 2024, National Class 1 Athlete (Mass Category), Women's 100m Breaststroke Swimming.
-- 2024, National Class 1 Athlete (Mass Category), Women's 50m Freestyle Swimming.
+- 2024, **Student Model of Excellence**, SUSTech. (Top 7 among all undergraduates, 4000±)
+- 2023, **Outstanding Student**, SUSTech. (Top 489 among all undergraduates, 3700±)
+- 2024, **Outstanding Student Scholarship Second Prize**, SUSTech. (Top 15%)
+- 2023, **Outstanding Student Scholarship Second Prize**, SUSTech. (Top 15%)
+- 2023, **First Prize**, Guangdong Province, National University Mathmetics Competition. (Top 7%)
+- 2024, **Outstanding Project**, Dept. of EE., SUSTech. (Top 5 out of 107, individual)
+- 2024, **National Class 1 Athlete** (Mass Category), Women's 100m Breaststroke Swimming.
+- 2024, **National Class 1 Athlete** (Mass Category), Women's 50m Freestyle Swimming.
 
 # 📚 Work Experience
 - 2024.09 - 2025.09, President of Student Union of Dept. of EE in SUSTech.
