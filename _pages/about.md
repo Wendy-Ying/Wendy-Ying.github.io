@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hi, there! 👋 Welcome to Yiwen Ying's Homepage.
 
-I am a senior student at <a href='https://rcvlab.eee.sustech.edu.cn/'>Robot and Computer Vision Lab</a>, from the Department of Electronic and Electrical Engineering in <a href='https://www.sustech.edu.cn'>**Southern University of Science and Technology**</a>, supervised by <a href='https://scholar.google.com/citations?user=J7UkpAIAAAAJ'>Professor Hong Zhang</a>.
+I am a final student at <a href='https://rcvlab.eee.sustech.edu.cn/'>Robot and Computer Vision Lab</a>, from the Department of Electronic and Electrical Engineering in <a href='https://www.sustech.edu.cn'>**Southern University of Science and Technology**</a>, supervised by <a href='https://scholar.google.com/citations?user=J7UkpAIAAAAJ'>Professor Hong Zhang</a>.
 
 My research interests focus on **learning-based motion planning**. Have comprehensive capabilities in full-stack robotics development including perception, planning and control, with expertise in the field of motion planning, SLAM, machine learning, and computer vision. My programming expertise spans Python, C++, and MATLAB.
 
@@ -20,43 +20,51 @@ My personal CV is attached <a href='/files/resume.pdf'>here</a>. If you are inte
 # 🔥 News
 **Seeking for PhD opportunities!**
 
-# 📝 Research 
+# 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2025</div><img src='/images/MfNeuPAN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MfNeuPAN: Proactive End-to-End Navigation in Dynamic Environments via Direct Multi-Frame Point Constraints
+
+**Yiwen Ying**, Hanjing Ye, Senzi Luo, Luyao Liu, Yu Zhan, Li He and Hong Zhang
+
+</div> 
+</div>
+
+# 🎁 Project
 - DiCoIK: Generating Diverse and Collision-free Inverse Kinematics Solutions for Mobile Manipulators via Diffusion
-- MfNeuPAN: Proactive End-to-End Navigation in Dynamic Environments via Direct Multi-Frame Point Constraints
 - SD-Loc: Global Localization in Challenging Semi-Dynamic Environment
 - <a href='https://github.com/Wendy-Ying/Fully-Automated-Highly-Compatible-Detection-Combat-Investigated-UAV'>Fully Automatic Task-Oriented Air-Ground Cooperative Robot System</a>
 - Universal Building Delivery Robot
 - Precise 3D Reconstruction System from High-Precision Object Images
-- <a href='https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach'>Sign Language Translation System</a>
-
-# 🎁 Project
 - <a href='https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab'>Mobile Robot Navigation and Homing</a>
 - <a href='https://github.com/Wendy-Ying/rrt_planner'>Efficient Path Planning and Grasping for a Robotic Arm Using RRT</a>
+- <a href='https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach'>Sign Language Translation System</a>
 - <a href='https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS'>Fast Positioning Indoor Vehicle with Visual Gimbal Based on UWB and ROS</a>
 - <a href='https://github.com/Wendy-Ying/Intelligent-Image-Scaling-System-Based-on-Seam-Carving-Algorithm'>Intelligent Image Scaling System Based on Seam Carving Algorithm</a>
 - <a href='https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction'>AI4I Binary Classification Prediction</a>
 - <a href='https://github.com/Wendy-Ying/Smart-Combination-Lock'>Smart Combination Lock</a>
 - <a href='https://github.com/Wendy-Ying/PokeSnap'>PokeSnap, a Pokémon Smart Polaroid</a>
 - <a href='https://github.com/Wendy-Ying/Electronic-Ocarina'>Electronic Ocarina</a>
-- <a href='https://github.com/Wendy-Ying/Speech-Synthesis-And-Perception-With-Envelope-Cue'>Speech Synthesis and Perception with Envelope Cue</a>
 
 # 📖 Education
 - 2022.09 - present, Bachelor of Engineering, Information Engineering, Department of Electronic and Electrical Engineering, Southern University of Science and Technology.
 - 2019.09 - 2022.06, High School Student, No.2 High School of East China Normal University.
 
 # 💻 Research Experience
-- 2025.01 - 2025.09, Research Intern, FAST Lab (FAR Group), Zhejiang University.
+- 2025.01 - 2025.09, Research Intern, [FAST Lab (FAR Group)](http://zju-fast.com/research-group/fei-gao/), Zhejiang University.
 - 2024.08 - 2024.11, Research Intern, CV-AI Lab, Tsinghua University.
-- 2023.06 - present, Research Intern, RCV Lab, Southern University of Science and Technology.
+- 2023.06 - present, Research Intern, [RCV Lab](https://rcvlab.eee.sustech.edu.cn/), Southern University of Science and Technology.
 
 # 🎉 Honors and Awards
-- 2025, **Seeking Truth Scholarship Nomination Award**, SUSTech. (Top 1+5 among all undergraduates, 5000±)
-- 2025, **Student of the Year Nomination Award**, SUSTech. (Top 1+5 among all undergraduates, 5000±)
-- 2024, **Student Model of Excellence**, SUSTech. (Top 7 among all undergraduates, 5000±)
-- 2023, **Outstanding Student**, SUSTech. (Top 489 among all undergraduates, 5000±)
+- 2025, **Seeking Truth Scholarship Nomination Award**, Southern University of Science and Technology. (Top 1+5 among all undergraduates, 5000±)
+- 2025, **Student of the Year Nomination Award**, Southern University of Science and Technology. (Top 1+5 among all undergraduates, 5000±)
+- 2024, **Student Model of Excellence**, Southern University of Science and Technology. (Top 7 among all undergraduates, 5000±)
+- 2023, **Outstanding Student**, Southern University of Science and Technology. (Top 489 among all undergraduates, 5000±)
 - 2023, **First Prize**, Guangdong Province, National University Mathmetics Competition. (Top 7%)
 
 # 📚 Work Experience
+- 2025.09 - 2026.09, **President of Student Union (Honor)** of Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
 - 2024.09 - 2025.09, **President of Student Union** of Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
 - 2024.12 - 2025.01, **Peer Mentor for Undergraduate Course "Signals and Systems"** in Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
 - 2023.09 - 2024.09, **Head of the Photography Department** in the Converged Media Center, Propaganda and Public Relations Department of the Party Committee in Southern University of Science and Technology.
