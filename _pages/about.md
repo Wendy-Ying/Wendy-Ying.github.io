@@ -13,7 +13,7 @@ Hi, there! 👋 Welcome to Yiwen Ying's Homepage.
 
 I am a senior student at <a href='https://rcvlab.eee.sustech.edu.cn/'>Robot and Computer Vision Lab</a>, from the Department of Electronic and Electrical Engineering in <a href='https://www.sustech.edu.cn'>**Southern University of Science and Technology**</a>, supervised by <a href='https://scholar.google.com/citations?user=J7UkpAIAAAAJ'>Professor Hong Zhang</a>.
 
-My research interests focus on **learning-based robot motion planning**. Have comprehensive capabilities in full-stack robotics development including perception, planning and control, with expertise in the field of motion planning, SLAM, machine learning, and computer vision. My programming expertise spans Python, C++, and MATLAB.
+My research interests focus on **learning-based motion planning**. Have comprehensive capabilities in full-stack robotics development including perception, planning and control, with expertise in the field of motion planning, SLAM, machine learning, and computer vision. My programming expertise spans Python, C++, and MATLAB.
 
 My personal CV is attached <a href='/files/resume.pdf'>here</a>. If you are interested in my research or have any questions, please feel free to contact me at <a href='mailto:yingyw2022@mail.sustech.edu.cn'>yingyw2022@mail.sustech.edu.cn</a>.
 
@@ -45,20 +45,18 @@ My personal CV is attached <a href='/files/resume.pdf'>here</a>. If you are inte
 - 2019.09 - 2022.06, High School Student, No.2 High School of East China Normal University.
 
 # 💻 Research Experience
-- 2025.01 - present, Research Intern, FAST Lab (FAR Group), Zhejiang University.
+- 2025.01 - 2025.09, Research Intern, FAST Lab (FAR Group), Zhejiang University.
 - 2024.08 - 2024.11, Research Intern, CV-AI Lab, Tsinghua University.
 - 2023.06 - present, Research Intern, RCV Lab, Southern University of Science and Technology.
 
 # 🎉 Honors and Awards
-- 2024, **Student Model of Excellence**, SUSTech. (Top 7 among all undergraduates, 4000±)
-- 2023, **Outstanding Student**, SUSTech. (Top 489 among all undergraduates, 3700±)
-- 2024, **Outstanding Student Scholarship Second Prize**, SUSTech. (Top 15%)
-- 2023, **Outstanding Student Scholarship Second Prize**, SUSTech. (Top 15%)
+- 2025, **Seeking Truth Scholarship Nomination Award**, SUSTech. (Top 1+5 among all undergraduates, 5000±)
+- 2025, **Student of the Year Nomination Award**, SUSTech. (Top 1+5 among all undergraduates, 5000±)
+- 2024, **Student Model of Excellence**, SUSTech. (Top 7 among all undergraduates, 5000±)
+- 2023, **Outstanding Student**, SUSTech. (Top 489 among all undergraduates, 5000±)
 - 2023, **First Prize**, Guangdong Province, National University Mathmetics Competition. (Top 7%)
-- 2024, **Outstanding Project**, Dept. of EE., SUSTech. (Top 5 out of 107, individual)
-- 2024, **National Class 1 Athlete** (Mass Category), Women's 100m Breaststroke Swimming.
-- 2024, **National Class 1 Athlete** (Mass Category), Women's 50m Freestyle Swimming.
 
 # 📚 Work Experience
-- 2024.09 - 2025.09, President of Student Union of Dept. of EE in SUSTech.
-- 2024.12 - 2025.01, Peer Mentor for Undergraduate Course "Signals and Systems".
+- 2024.09 - 2025.09, **President of Student Union** of Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
+- 2024.12 - 2025.01, **Peer Mentor for Undergraduate Course "Signals and Systems"** in Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
+- 2023.09 - 2024.09, **Head of the Photography Department** in the Converged Media Center, Propaganda and Public Relations Department of the Party Committee in Southern University of Science and Technology.
