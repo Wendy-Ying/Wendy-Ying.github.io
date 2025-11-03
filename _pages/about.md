@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hi, there! 👋 Welcome to Yiwen Ying's Homepage.
 
-I am a final student at <a href='https://rcvlab.eee.sustech.edu.cn/'>Robot and Computer Vision Lab</a>, from the Department of Electronic and Electrical Engineering in <a href='https://www.sustech.edu.cn'>**Southern University of Science and Technology**</a>, supervised by <a href='https://scholar.google.com/citations?user=J7UkpAIAAAAJ'>Professor Hong Zhang</a>.
+I am a final-year student at <a href='https://rcvlab.eee.sustech.edu.cn/'>Robot and Computer Vision Lab</a>, from the Department of Electronic and Electrical Engineering in <a href='https://www.sustech.edu.cn'>**Southern University of Science and Technology**</a>, supervised by <a href='https://scholar.google.com/citations?user=J7UkpAIAAAAJ'>Professor Hong Zhang</a>.
 
 My research interests focus on **learning-based motion planning**. Have comprehensive capabilities in full-stack robotics development including perception, planning and control, with expertise in the field of motion planning, SLAM, machine learning, and computer vision. My programming expertise spans Python, C++, and MATLAB.
 
