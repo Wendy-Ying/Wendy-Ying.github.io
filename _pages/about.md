@@ -21,7 +21,7 @@ My personal CV is attached <a href='/files/resume.pdf'>here</a>. If you are inte
 **Seeking for PhD opportunities!**
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2025</div><img src='/images/MfNeuPAN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2025</div><img src='/images/MfNeuPAN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 MfNeuPAN: Proactive End-to-End Navigation in Dynamic Environments via Direct Multi-Frame Point Constraints
@@ -61,6 +61,8 @@ MfNeuPAN: Proactive End-to-End Navigation in Dynamic Environments via Direct Mul
 - 2025, **Student of the Year Nomination Award**, Southern University of Science and Technology. (Top 1+5 among all undergraduates, 5000±)
 - 2024, **Student Model of Excellence**, Southern University of Science and Technology. (Top 7 among all undergraduates, 5000±)
 - 2023, **Outstanding Student**, Southern University of Science and Technology. (Top 489 among all undergraduates, 5000±)
+- 2025, **Guo Xie Birong Scholarship for Academic Excellence**, Southern University of Science and Technology. (Top 40 among all undergraduates, 5000±)
+- 2024, **Guo Xie Birong Scholarship for Academic Excellence**, Southern University of Science and Technology. (Top 20 among all undergraduates, 5000±)
 - 2023, **First Prize**, Guangdong Province, National University Mathmetics Competition. (Top 7%)
 
 # 📚 Work Experience
