@@ -40,7 +40,9 @@ MfNeuPAN: Proactive End-to-End Navigation in Dynamic Environments via Direct Mul
 # 🎁 Project
 - <a href='https://github.com/Wendy-Ying/Fully-Automated-Highly-Compatible-Detection-Combat-Investigated-UAV'>Fully Automatic Task-Oriented Air-Ground Cooperative Robot System</a> (College Students' Innovative Entrepreneurial Training Plan Program — National-level Project)
 - Universal Building Delivery Robot (Guangdong Provincial Science and Technology Innovation Strategic Special Fund — School-level Project)
+
 ---
+
 - <a href='https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab'>Mobile Robot Navigation and Homing</a>
 - <a href='https://github.com/Wendy-Ying/rrt_planner'>Efficient Path Planning and Grasping for a Robotic Arm Using RRT</a>
 - <a href='https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach'>Sign Language Translation System</a>
