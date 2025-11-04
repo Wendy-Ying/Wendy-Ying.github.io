@@ -44,47 +44,54 @@
 
 .paper-box {
     display: flex;
-    justify-content: left;
+    justify-content: flex-start;
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 0 0;
-    
+    padding: 1em;
 
-    .paper-box-image{
-        justify-content: center;
+    .paper-box-image {
         display: flex;
+        justify-content: center;
         width: 100%;
         order: 2;
+
         img {
-            max-width: 400px;
+            max-width: 100%;
+            height: auto;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
     }
-    
-    .paper-box-text{
+
+    .paper-box-text {
         max-width: 100%;
         order: 1;
+        padding: 0 1em;
     }
-    
-    @include breakpoint($medium) {
-        .paper-box-image{
-            justify-content: left;
+
+    @media (min-width: 768px) {
+        .paper-box-image {
+            justify-content: flex-start;
             min-width: 200px;
             max-width: 40%;
             order: 1;
         }
-        
-        .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
+
+        .paper-box-text {
             max-width: 60%;
             order: 2;
+            padding-left: 2em;
         }
-
     }
 
+    @media (min-width: 1024px) {
+        .paper-box-image {
+            max-width: 50%;
+        }
 
+        .paper-box-text {
+            max-width: 50%;
+        }
+    }
 }

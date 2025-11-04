@@ -17,8 +17,12 @@ My research interests focus on **learning-based motion planning**. Have comprehe
 
 My personal CV is attached <a href='/files/resume.pdf'>here</a>. If you are interested in my research or have any questions, please feel free to contact me at <a href='mailto:yingyw2022@mail.sustech.edu.cn'>yingyw2022@mail.sustech.edu.cn</a>.
 
+---
+
 # 🔥 News
 **Seeking for PhD opportunities!**
+
+---
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2025</div><img src='/images/MfNeuPAN.png' alt="sym" width="100%"></div></div>
@@ -31,12 +35,12 @@ MfNeuPAN: Proactive End-to-End Navigation in Dynamic Environments via Direct Mul
 </div> 
 </div>
 
+---
+
 # 🎁 Project
-- DiCoIK: Generating Diverse and Collision-free Inverse Kinematics Solutions for Mobile Manipulators via Diffusion
-- SD-Loc: Global Localization in Challenging Semi-Dynamic Environment
-- <a href='https://github.com/Wendy-Ying/Fully-Automated-Highly-Compatible-Detection-Combat-Investigated-UAV'>Fully Automatic Task-Oriented Air-Ground Cooperative Robot System</a>
-- Universal Building Delivery Robot
-- Precise 3D Reconstruction System from High-Precision Object Images
+- <a href='https://github.com/Wendy-Ying/Fully-Automated-Highly-Compatible-Detection-Combat-Investigated-UAV'>Fully Automatic Task-Oriented Air-Ground Cooperative Robot System</a> (College Students' Innovative Entrepreneurial Training Plan Program — National-level Project)
+- Universal Building Delivery Robot (Guangdong Provincial Science and Technology Innovation Strategic Special Fund — School-level Project)
+---
 - <a href='https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab'>Mobile Robot Navigation and Homing</a>
 - <a href='https://github.com/Wendy-Ying/rrt_planner'>Efficient Path Planning and Grasping for a Robotic Arm Using RRT</a>
 - <a href='https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach'>Sign Language Translation System</a>
@@ -47,26 +51,34 @@ MfNeuPAN: Proactive End-to-End Navigation in Dynamic Environments via Direct Mul
 - <a href='https://github.com/Wendy-Ying/PokeSnap'>PokeSnap, a Pokémon Smart Polaroid</a>
 - <a href='https://github.com/Wendy-Ying/Electronic-Ocarina'>Electronic Ocarina</a>
 
+---
+
 # 📖 Education
 - 2022.09 - present, Bachelor of Engineering, Information Engineering, Department of Electronic and Electrical Engineering, Southern University of Science and Technology.
 - 2019.09 - 2022.06, High School Student, No.2 High School of East China Normal University.
+
+---
 
 # 💻 Research Experience
 - 2025.01 - 2025.09, Research Intern, [FAST Lab (FAR Group)](http://zju-fast.com/research-group/fei-gao/), Zhejiang University.
 - 2024.08 - 2024.11, Research Intern, CV-AI Lab, Tsinghua University.
 - 2023.06 - present, Research Intern, [RCV Lab](https://rcvlab.eee.sustech.edu.cn/), Southern University of Science and Technology.
 
+---
+
 # 🎉 Honors and Awards
-- 2025, **Seeking Truth Scholarship Nomination Award**, Southern University of Science and Technology. (Top 1+5 among all undergraduates, 5000±)
-- 2025, **Student of the Year Nomination Award**, Southern University of Science and Technology. (Top 1+5 among all undergraduates, 5000±)
+- 2025, **Nominee of Seeking Truth Scholarship**, Southern University of Science and Technology. (Top 1+5 among all undergraduates, 5000±)
+- 2025, **Nominee of Student of the Year**, Southern University of Science and Technology. (Top 1+5 among all undergraduates, 5000±)
 - 2024, **Student Model of Excellence**, Southern University of Science and Technology. (Top 7 among all undergraduates, 5000±)
 - 2023, **Outstanding Student**, Southern University of Science and Technology. (Top 489 among all undergraduates, 5000±)
 - 2025, **Guo Xie Birong Scholarship for Academic Excellence**, Southern University of Science and Technology. (Top 40 among all undergraduates, 5000±)
 - 2024, **Guo Xie Birong Scholarship for Academic Excellence**, Southern University of Science and Technology. (Top 20 among all undergraduates, 5000±)
 - 2023, **First Prize**, Guangdong Province, National University Mathmetics Competition. (Top 7%)
 
+---
+
 # 📚 Work Experience
-- 2025.09 - 2026.09, **President of Student Union (Honor)** of Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
-- 2024.09 - 2025.09, **President of Student Union** of Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
-- 2024.12 - 2025.01, **Peer Mentor for Undergraduate Course "Signals and Systems"** in Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
-- 2023.09 - 2024.09, **Head of the Photography Department** in the Converged Media Center, Propaganda and Public Relations Department of the Party Committee in Southern University of Science and Technology.
+- 2025.09 - 2026.09, **President of Student Union (Honor)**, of Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
+- 2024.09 - 2025.09, **President of Student Union**, of Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
+- 2024.12 - 2025.01, **Peer Mentor for Undergraduate Course "Signals and Systems"**, in Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
+- 2023.09 - 2024.09, **Head of the Photography Department**, in the Converged Media Center, Propaganda and Public Relations Department of the Party Committee in Southern University of Science and Technology.
