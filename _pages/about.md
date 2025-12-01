@@ -19,11 +19,11 @@ redirect_from:
 
 Hi, there! 👋 Welcome to Yiwen Ying's Homepage.
 
-I am a senior student at <a href='https://rcvlab.eee.sustech.edu.cn/'>Robot and Computer Vision Lab</a>, from the Department of Electronic and Electrical Engineering in <a href='https://www.sustech.edu.cn'>**Southern University of Science and Technology**</a>, supervised by <a href='https://scholar.google.com/citations?user=J7UkpAIAAAAJ'>Professor Hong Zhang</a>.
+I am a senior student from the Department of Electronic and Electrical Engineering in [**Southern University of Science and Technology**](https://www.sustech.edu.cn). I have built a comprehensive background in robotics and AI under the guidance of [Prof. Hong Zhang](https://scholar.google.com/citations?user=J7UkpAIAAAAJ&hl=zh-CN) at the [Robotics and Computer Vision Lab](https://rcvlab.eee.sustech.edu.cn/), SUSTech, and [Prof. Fei Gao](https://scholar.google.com/citations?user=4RObDv0AAAAJ&hl=zh-CN) at FASTLAB, Zhejiang University.
 
-My research interests focus on **learning-based motion planning**. Have comprehensive capabilities in full-stack robotics development including perception, planning and control, with expertise in the field of motion planning, SLAM, machine learning, and computer vision. My programming expertise spans Python, C++, and MATLAB.
+My research interests focus on **learning-based motion planning**. I have comprehensive capabilities in full-stack robotics development including perception, planning and control, with expertise in the field of motion planning, SLAM, machine learning, and computer vision. My programming expertise spans Python, C++, and MATLAB.
 
-My personal CV is attached <a href='/cv/resume.pdf'>here</a>. If you are interested in my research or have any questions, please feel free to contact me at <a href='mailto:yingyw2022@mail.sustech.edu.cn'>yingyw2022@mail.sustech.edu.cn</a>.
+My personal CV is attached <a href='/cv/resume.pdf'>here</a>. My research experience includes a first-authored paper accepted by IEEE ROBIO 2025, which focuses on local planners in dynamic environments; a first-authored paper that I propose to submit to IEEE RAL, which focuses on inverse kinematics for mobile manipulators; a paper submitted to IEEE CVPR 2026, which focuses on higher accuracy of 3d reconstruction system; a national-level project selected by the College Students Training Program for Innovation and Entrepreneurship, which focuses on air-ground robot cooperative systems; two school-level projects selected by Guangdong Science and Technology Innovation Strategy Program, which focus on robots in complex environments. If you are interested in my research or have any questions, please feel free to contact me at <a href='mailto:yingyw2022@mail.sustech.edu.cn'>yingyw2022@mail.sustech.edu.cn</a>.
 
 # 🔥 News
 - Seeking for PhD opportunities!
@@ -43,7 +43,7 @@ My personal CV is attached <a href='/cv/resume.pdf'>here</a>. If you are interes
 
 # 🛠 Projects
 
-- ``College Students' Innovative Entrepreneurial Training Plan Program — National-level Project`` <a href='https://github.com/Wendy-Ying/Fully-Automated-Highly-Compatible-Detection-Combat-Investigated-UAV'>Fully Automatic Task-Oriented Air-Ground Cooperative Robot System</a>
+- ``College Students' Innovative Entrepreneurial Training Plan Program`` <a href='https://github.com/Wendy-Ying/Fully-Automated-Highly-Compatible-Detection-Combat-Investigated-UAV'>Fully Automatic Task-Oriented Air-Ground Cooperative Robot System</a>
 - ``EE346 Mobile Navigation and Control`` <a href='https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab'>Mobile Robot Navigation and Homing</a>
 - ``EE368 Robotic Motion and Control`` <a href='https://github.com/Wendy-Ying/rrt_planner'>Efficient Path Planning and Grasping for a Robotic Arm Using RRT</a>
 - ``EE318 Advanced Electronic Experiment`` <a href='https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach'>Sign Language Translation System</a>
@@ -58,7 +58,7 @@ My personal CV is attached <a href='/cv/resume.pdf'>here</a>. If you are interes
 - 2019.09 - 2022.06, **High School Student**, No.2 High School of East China Normal University.
 
 # 💻 Internships
-- 2025.01 - 2025.09, Research Intern, [FAST Lab (FAR Group)](http://zju-fast.com/research-group/fei-gao/), Zhejiang University.
+- 2025.01 - 2025.09, Research Intern, [FAST Lab](http://zju-fast.com/research-group/fei-gao/), Zhejiang University.
 - 2024.08 - 2024.11, Research Intern, CV-AI Lab, Tsinghua University.
 - 2023.06 - present, Research Intern, [RCV Lab](https://rcvlab.eee.sustech.edu.cn/), Southern University of Science and Technology.
 
