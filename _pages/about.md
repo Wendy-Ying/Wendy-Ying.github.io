@@ -43,13 +43,13 @@ My personal CV is attached <a href='/cv/resume.pdf'>here</a>. My research experi
 
 # 🛠 Projects
 
-- ``College Students' Innovative Entrepreneurial Training Plan Program`` <a href='https://github.com/Wendy-Ying/Fully-Automated-Highly-Compatible-Detection-Combat-Investigated-UAV'>Fully Automatic Task-Oriented Air-Ground Cooperative Robot System</a>
-- ``EE346 Mobile Navigation and Control`` <a href='https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab'>Mobile Robot Navigation and Homing</a>
+- ``College Students' Innovative Training Plan Program`` <a href='https://github.com/Wendy-Ying/Fully-Automated-Highly-Compatible-Detection-Combat-Investigated-UAV'>Fully Automatic Task-Oriented Air-Ground Cooperative Robot System</a>
+- ``EE346 Mobile Robot Navigation and Control`` <a href='https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab'>Mobile Robot Navigation and Homing</a>
 - ``EE368 Robotic Motion and Control`` <a href='https://github.com/Wendy-Ying/rrt_planner'>Efficient Path Planning and Grasping for a Robotic Arm Using RRT</a>
-- ``EE318 Advanced Electronic Experiment`` <a href='https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach'>Sign Language Translation System</a>
+- ``EE318 Innovation Experiment`` <a href='https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach'>Sign Language Translation System</a>
 - ``EE202 Digital Ciruciut`` <a href='https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS'>Fast Positioning Indoor Vehicle with Visual Gimbal Based on UWB and ROS</a>
 - ``CS203 Data Sturcture and Algorithm Analysis`` <a href='https://github.com/Wendy-Ying/Intelligent-Image-Scaling-System-Based-on-Seam-Carving-Algorithm'>Intelligent Image Scaling System Based on Seam Carving Algorithm</a>
-- ``SDM274 AI and machine learning`` <a href='https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction'>AI4I Binary Classification Prediction</a>
+- ``SDM274 Artificial Intelligence and Machine Learning`` <a href='https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction'>AI4I Binary Classification Prediction</a>
 - ``EE332 Digital System Design`` <a href='https://github.com/Wendy-Ying/Smart-Combination-Lock'>Smart Combination Lock</a>
 - ``EE201 Analog Circuit`` <a href='https://github.com/Wendy-Ying/Electronic-Ocarina'>Electronic Ocarina</a>
 
@@ -66,7 +66,6 @@ My personal CV is attached <a href='/cv/resume.pdf'>here</a>. My research experi
 - 2025, **Nominee of Seeking Truth Scholarship**, Southern University of Science and Technology. (Top 1+5 among all undergraduates, 5000±)
 - 2025, **Nominee of Student of the Year**, Southern University of Science and Technology. (Top 1+5 among all undergraduates, 5000±)
 - 2024, **Student Model of Excellence**, Southern University of Science and Technology. (Top 7 among all undergraduates, 5000±)
-- 2023, **Outstanding Student**, Southern University of Science and Technology. (Top 489 among all undergraduates, 5000±)
 - 2025, **Guo Xie Birong Scholarship for Academic Excellence**, Southern University of Science and Technology. (Top 40 among all undergraduates, 5000±)
 - 2024, **Guo Xie Birong Scholarship for Academic Excellence**, Southern University of Science and Technology. (Top 20 among all undergraduates, 5000±)
 - 2023, **First Prize**, Guangdong Province, National University Mathmetics Competition. (Top 7%)
