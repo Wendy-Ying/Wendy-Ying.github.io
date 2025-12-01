@@ -8,67 +8,61 @@ redirect_from:
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 <span class='anchor' id='about-me'></span>
+
 Hi, there! 👋 Welcome to Yiwen Ying's Homepage.
 
-I am a final-year student at <a href='https://rcvlab.eee.sustech.edu.cn/'>Robot and Computer Vision Lab</a>, from the Department of Electronic and Electrical Engineering in <a href='https://www.sustech.edu.cn'>**Southern University of Science and Technology**</a>, supervised by <a href='https://scholar.google.com/citations?user=J7UkpAIAAAAJ'>Professor Hong Zhang</a>.
+I am a senior student at <a href='https://rcvlab.eee.sustech.edu.cn/'>Robot and Computer Vision Lab</a>, from the Department of Electronic and Electrical Engineering in <a href='https://www.sustech.edu.cn'>**Southern University of Science and Technology**</a>, supervised by <a href='https://scholar.google.com/citations?user=J7UkpAIAAAAJ'>Professor Hong Zhang</a>.
 
 My research interests focus on **learning-based motion planning**. Have comprehensive capabilities in full-stack robotics development including perception, planning and control, with expertise in the field of motion planning, SLAM, machine learning, and computer vision. My programming expertise spans Python, C++, and MATLAB.
 
-My personal CV is attached <a href='/files/resume.pdf'>here</a>. If you are interested in my research or have any questions, please feel free to contact me at <a href='mailto:yingyw2022@mail.sustech.edu.cn'>yingyw2022@mail.sustech.edu.cn</a>.
-
----
+My personal CV is attached <a href='/cv/resume.pdf'>here</a>. If you are interested in my research or have any questions, please feel free to contact me at <a href='mailto:yingyw2022@mail.sustech.edu.cn'>yingyw2022@mail.sustech.edu.cn</a>.
 
 # 🔥 News
-**Seeking for PhD opportunities!**
+- Seeking for PhD opportunities!
+- *2025.10* : &nbsp; 🎉 Our paper MfNeuPAN is accepted by IEEE ROBIO 2025.
 
----
-
-# 📝 Publications
+# 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2025</div><img src='/images/MfNeuPAN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-MfNeuPAN: Proactive End-to-End Navigation in Dynamic Environments via Direct Multi-Frame Point Constraints
+[MfNeuPAN: Proactive End-to-End Navigation in Dynamic Environments via Direct Multi-Frame Point Constraints](https://arxiv.org/abs/2511.17013)
 
 **Yiwen Ying**, Hanjing Ye, Senzi Luo, Luyao Liu, Yu Zhan, Li He and Hong Zhang
 
 </div> 
 </div>
 
----
 
-# 🎁 Project
-- <a href='https://github.com/Wendy-Ying/Fully-Automated-Highly-Compatible-Detection-Combat-Investigated-UAV'>Fully Automatic Task-Oriented Air-Ground Cooperative Robot System</a> (College Students' Innovative Entrepreneurial Training Plan Program — National-level Project)
-- Universal Building Delivery Robot (Guangdong Provincial Science and Technology Innovation Strategic Special Fund — School-level Project)
+# 🛠 Projects
 
----
+- ``College Students' Innovative Entrepreneurial Training Plan Program — National-level Project`` <a href='https://github.com/Wendy-Ying/Fully-Automated-Highly-Compatible-Detection-Combat-Investigated-UAV'>Fully Automatic Task-Oriented Air-Ground Cooperative Robot System</a>
+- ``EE346 Mobile Navigation and Control`` <a href='https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab'>Mobile Robot Navigation and Homing</a>
+- ``EE368 Robotic Motion and Control`` <a href='https://github.com/Wendy-Ying/rrt_planner'>Efficient Path Planning and Grasping for a Robotic Arm Using RRT</a>
+- ``EE318 Advanced Electronic Experiment`` <a href='https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach'>Sign Language Translation System</a>
+- ``EE202 Digital Ciruciut`` <a href='https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS'>Fast Positioning Indoor Vehicle with Visual Gimbal Based on UWB and ROS</a>
+- ``CS203 Data Sturcture and Algorithm Analysis`` <a href='https://github.com/Wendy-Ying/Intelligent-Image-Scaling-System-Based-on-Seam-Carving-Algorithm'>Intelligent Image Scaling System Based on Seam Carving Algorithm</a>
+- ``SDM274 AI and machine learning`` <a href='https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction'>AI4I Binary Classification Prediction</a>
+- ``EE332 Digital System Design`` <a href='https://github.com/Wendy-Ying/Smart-Combination-Lock'>Smart Combination Lock</a>
+- ``EE201 Analog Circuit`` <a href='https://github.com/Wendy-Ying/Electronic-Ocarina'>Electronic Ocarina</a>
 
-- <a href='https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab'>Mobile Robot Navigation and Homing</a>
-- <a href='https://github.com/Wendy-Ying/rrt_planner'>Efficient Path Planning and Grasping for a Robotic Arm Using RRT</a>
-- <a href='https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach'>Sign Language Translation System</a>
-- <a href='https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS'>Fast Positioning Indoor Vehicle with Visual Gimbal Based on UWB and ROS</a>
-- <a href='https://github.com/Wendy-Ying/Intelligent-Image-Scaling-System-Based-on-Seam-Carving-Algorithm'>Intelligent Image Scaling System Based on Seam Carving Algorithm</a>
-- <a href='https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction'>AI4I Binary Classification Prediction</a>
-- <a href='https://github.com/Wendy-Ying/Smart-Combination-Lock'>Smart Combination Lock</a>
-- <a href='https://github.com/Wendy-Ying/PokeSnap'>PokeSnap, a Pokémon Smart Polaroid</a>
-- <a href='https://github.com/Wendy-Ying/Electronic-Ocarina'>Electronic Ocarina</a>
+# 📖 Educations
+- 2022.09 - present, **Bachelor of Engineering in Information Engineering**, Department of Electronic and Electrical Engineering, Southern University of Science and Technology.
+- 2019.09 - 2022.06, **High School Student**, No.2 High School of East China Normal University.
 
----
-
-# 📖 Education
-- 2022.09 - present, Bachelor of Engineering, Information Engineering, Department of Electronic and Electrical Engineering, Southern University of Science and Technology.
-- 2019.09 - 2022.06, High School Student, No.2 High School of East China Normal University.
-
----
-
-# 💻 Research Experience
+# 💻 Internships
 - 2025.01 - 2025.09, Research Intern, [FAST Lab (FAR Group)](http://zju-fast.com/research-group/fei-gao/), Zhejiang University.
 - 2024.08 - 2024.11, Research Intern, CV-AI Lab, Tsinghua University.
 - 2023.06 - present, Research Intern, [RCV Lab](https://rcvlab.eee.sustech.edu.cn/), Southern University of Science and Technology.
 
----
-
-# 🎉 Honors and Awards
+# 🎖 Honors and Awards
 - 2025, **Nominee of Seeking Truth Scholarship**, Southern University of Science and Technology. (Top 1+5 among all undergraduates, 5000±)
 - 2025, **Nominee of Student of the Year**, Southern University of Science and Technology. (Top 1+5 among all undergraduates, 5000±)
 - 2024, **Student Model of Excellence**, Southern University of Science and Technology. (Top 7 among all undergraduates, 5000±)
@@ -77,9 +71,7 @@ MfNeuPAN: Proactive End-to-End Navigation in Dynamic Environments via Direct Mul
 - 2024, **Guo Xie Birong Scholarship for Academic Excellence**, Southern University of Science and Technology. (Top 20 among all undergraduates, 5000±)
 - 2023, **First Prize**, Guangdong Province, National University Mathmetics Competition. (Top 7%)
 
----
-
-# 📚 Work Experience
+# 📚 Student Works
 - 2025.09 - 2026.09, **President of Student Union (Honor)**, of Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
 - 2024.09 - 2025.09, **President of Student Union**, of Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
 - 2024.12 - 2025.01, **Peer Mentor for Undergraduate Course "Signals and Systems"**, in Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
