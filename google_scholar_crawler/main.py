@@ -5,13 +5,19 @@ import os
 from scholarly._proxy_generator import MaxTriesExceededException
 
 
+SCHOLAR_ID = os.environ.get("GOOGLE_SCHOLAR_ID", "").strip()
+
+if not SCHOLAR_ID:
+    print("GOOGLE_SCHOLAR_ID is not set; skipping citation data update.")
+    SystemExit(0)
+
 try:
     print("正在查找作者信息...")
     # Setup proxy
     pg = ProxyGenerator()
     pg.FreeProxies()  # Use free rotating proxies
     scholarly.use_proxy(pg)
-    author: dict = scholarly.search_author_id("zZ8lS-UAAAAJ")
+    author: dict = scholarly.search_author_id(SCHOLAR_ID)
 except MaxTriesExceededException as e:
     print(f"发生异常: {e}")
 else:
@@ -26,7 +32,7 @@ else:
     os.makedirs("results", exist_ok=True)
 
     print("正在保存作者数据...")
-    with open(f"results/gs_data.json", "w") as outfile:
+    with open("results/gs_data.json", "w") as outfile:
         json.dump(author, outfile, ensure_ascii=False)
 
     print("正在生成 Shields.io 数据...")
@@ -37,7 +43,7 @@ else:
     }
 
     print("正在保存 Shields.io 数据...")
-    with open(f"results/gs_data_shieldsio.json", "w") as outfile:
+    with open("results/gs_data_shieldsio.json", "w") as outfile:
         json.dump(shieldio_data, outfile, ensure_ascii=False)
 
     print("数据处理完成。")
