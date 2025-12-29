@@ -21,9 +21,7 @@ Hi, there! 👋 Welcome to Yiwen Ying's Homepage.
 
 I am a senior student from the Department of Electronic and Electrical Engineering in [**Southern University of Science and Technology**](https://www.sustech.edu.cn). I have built a comprehensive background in robotics and AI under the guidance of [Prof. Hong Zhang](https://scholar.google.com/citations?user=J7UkpAIAAAAJ&hl=zh-CN) at the [Robotics and Computer Vision Lab](https://rcvlab.eee.sustech.edu.cn/), SUSTech, and [Prof. Fei Gao](https://scholar.google.com/citations?user=4RObDv0AAAAJ&hl=zh-CN) at FASTLAB, Zhejiang University.
 
-My research interests focus on **learning-based motion planning**. I have comprehensive capabilities in full-stack robotics development including perception, planning and control, with expertise in the field of motion planning, SLAM, machine learning, and computer vision. My programming expertise spans Python, C++, and MATLAB.
-
-My personal CV is attached <a href='/cv/resume.pdf'>here</a>. My research experience includes a first-authored paper accepted by IEEE ROBIO 2025, which focuses on local planners in dynamic environments; a first-authored paper that I propose to submit to IEEE RAL, which focuses on inverse kinematics for mobile manipulators; a paper submitted to IEEE CVPR 2026, which focuses on higher accuracy of 3d reconstruction system; a national-level project selected by the College Students Training Program for Innovation and Entrepreneurship, which focuses on air-ground robot cooperative systems; two school-level projects selected by Guangdong Science and Technology Innovation Strategy Program, which focus on robots in complex environments. If you are interested in my research or have any questions, please feel free to contact me at <a href='mailto:yingyw2022@mail.sustech.edu.cn'>yingyw2022@mail.sustech.edu.cn</a>.
+My research interests focus on **robot learning**. I have also been involved in research spanning motion planning, SLAM, machine learning, and computer vision. My personal CV is attached <a href='/cv/resume.pdf'>here</a>. If you are interested in my research or have any questions, please feel free to contact me at <a href='mailto:yingyw2022@mail.sustech.edu.cn'>yingyw2022@mail.sustech.edu.cn</a>.
 
 # 🔥 News
 - Seeking for PhD opportunities!
@@ -47,7 +45,6 @@ My personal CV is attached <a href='/cv/resume.pdf'>here</a>. My research experi
 - ``EE346 Mobile Robot Navigation and Control`` <a href='https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab'>Mobile Robot Navigation and Homing</a>
 - ``EE368 Robotic Motion and Control`` <a href='https://github.com/Wendy-Ying/rrt_planner'>Efficient Path Planning and Grasping for a Robotic Arm Using RRT</a>
 - ``EE318 Innovation Experiment`` <a href='https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach'>Sign Language Translation System</a>
-- ``EE202 Digital Ciruciut`` <a href='https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS'>Fast Positioning Indoor Vehicle with Visual Gimbal Based on UWB and ROS</a>
 - ``CS203 Data Sturcture and Algorithm Analysis`` <a href='https://github.com/Wendy-Ying/Intelligent-Image-Scaling-System-Based-on-Seam-Carving-Algorithm'>Intelligent Image Scaling System Based on Seam Carving Algorithm</a>
 - ``SDM274 Artificial Intelligence and Machine Learning`` <a href='https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction'>AI4I Binary Classification Prediction</a>
 - ``EE332 Digital System Design`` <a href='https://github.com/Wendy-Ying/Smart-Combination-Lock'>Smart Combination Lock</a>
