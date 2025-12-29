@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, there! 👋 Welcome to Yiwen Ying's Homepage.
 
-I am a senior student from the Department of Electronic and Electrical Engineering in [**Southern University of Science and Technology**](https://www.sustech.edu.cn). I have built a comprehensive background in robotics and AI under the guidance of [Prof. Hong Zhang](https://scholar.google.com/citations?user=J7UkpAIAAAAJ&hl=zh-CN) at the [Robotics and Computer Vision Lab](https://rcvlab.eee.sustech.edu.cn/), SUSTech, and [Prof. Fei Gao](https://scholar.google.com/citations?user=4RObDv0AAAAJ&hl=zh-CN) at FASTLAB, Zhejiang University.
+I am a senior student from the Department of Electronic and Electrical Engineering in [**Southern University of Science and Technology**](https://www.sustech.edu.cn). I have built a comprehensive background in robotics and AI under the guidance of [Prof. Hong Zhang](https://scholar.google.com/citations?user=J7UkpAIAAAAJ&hl=zh-CN) at the [Robotics and Computer Vision Lab](https://rcvlab.eee.sustech.edu.cn/), [SUSTech](https://sustech.edu.cn/), and [Prof. Fei Gao](https://scholar.google.com/citations?user=4RObDv0AAAAJ&hl=zh-CN) at FASTLAB, Zhejiang University.
 
 My research interests focus on **robot learning**. I have also been involved in research spanning motion planning, SLAM, machine learning, and computer vision. My personal CV is attached <a href='/cv/resume.pdf'>here</a>. If you are interested in my research or have any questions, please feel free to contact me at <a href='mailto:yingyw2022@mail.sustech.edu.cn'>yingyw2022@mail.sustech.edu.cn</a>.
 
