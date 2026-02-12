@@ -24,7 +24,7 @@ I am a senior student from the Department of Electronic and Electrical Engineeri
 My research interests focus on **robot learning**. I have also been involved in research spanning motion planning, SLAM, machine learning, and computer vision. My personal CV is attached <a href='/cv/resume.pdf'>here</a>. If you are interested in my research or have any questions, please feel free to contact me at <a href='mailto:yingyw2022@mail.sustech.edu.cn'>yingyw2022@mail.sustech.edu.cn</a>.
 
 # 🔥 News
-- Seeking for PhD opportunities!
+- *2026.01* : &nbsp; All my [work](https://github.com/Wendy-Ying/SUSTech-Homeworks-and-Projects) and [notes](https://github.com/Wendy-Ying/SUSTech-Lecture-Notes) in SUSTech has been open source!
 - *2025.10* : &nbsp; 🎉 Our paper MfNeuPAN is accepted by IEEE ROBIO 2025.
 
 # 📝 Publications 
@@ -41,10 +41,10 @@ My research interests focus on **robot learning**. I have also been involved in 
 
 # 🛠 Projects
 
-- ``College Students' Innovative Training Plan Program`` <a href='https://github.com/Wendy-Ying/Fully-Automated-Highly-Compatible-Detection-Combat-Investigated-UAV'>Fully Automatic Task-Oriented Air-Ground Cooperative Robot System</a>
 - ``EE346 Mobile Robot Navigation and Control`` <a href='https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab'>Mobile Robot Navigation and Homing</a>
 - ``EE368 Robotic Motion and Control`` <a href='https://github.com/Wendy-Ying/rrt_planner'>Efficient Path Planning and Grasping for a Robotic Arm Using RRT</a>
 - ``EE318 Innovation Experiment`` <a href='https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach'>Sign Language Translation System</a>
+- ``EE211 Robotic Perception and Intelligence`` <a href='https://github.com/Wendy-Ying/Autonomous-Navigation-Grasping-Visual-Detection-System'>Autonomous Navigation-Grasping-Visual-Detection System</a>
 - ``CS203 Data Sturcture and Algorithm Analysis`` <a href='https://github.com/Wendy-Ying/Intelligent-Image-Scaling-System-Based-on-Seam-Carving-Algorithm'>Intelligent Image Scaling System Based on Seam Carving Algorithm</a>
 - ``SDM274 Artificial Intelligence and Machine Learning`` <a href='https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction'>AI4I Binary Classification Prediction</a>
 - ``EE332 Digital System Design`` <a href='https://github.com/Wendy-Ying/Smart-Combination-Lock'>Smart Combination Lock</a>
@@ -68,7 +68,7 @@ My research interests focus on **robot learning**. I have also been involved in 
 - 2023, **First Prize**, Guangdong Province, National University Mathmetics Competition. (Top 7%)
 
 # 📚 Student Works
-- 2025.09 - 2026.09, **President of Student Union (Honor)**, of Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
-- 2024.09 - 2025.09, **President of Student Union**, of Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
+- 2025.09 - 2026.08, **President of Student Union (Honor)**, of Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
+- 2024.09 - 2025.08, **President of Student Union**, of Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
 - 2024.12 - 2025.01, **Peer Mentor for Undergraduate Course "Signals and Systems"**, in Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
-- 2023.09 - 2024.09, **Head of the Photography Department**, in the Converged Media Center, Propaganda and Public Relations Department of the Party Committee in Southern University of Science and Technology.
+- 2023.09 - 2024.08, **Head of the Photography Department**, in the Converged Media Center, Propaganda and Public Relations Department of the Party Committee in Southern University of Science and Technology.
