@@ -54,19 +54,19 @@ My research interests focus on **robot learning**. I have also been involved in 
     <div class="project-title"><a href="https://github.com/Wendy-Ying/rrt_planner" target="_blank">Efficient Path Planning and Grasping for a Robotic Arm Using RRT</a></div>
   </div>
   <div class="project-card">
-    <img src="/images/project3.png" alt="Sign Language Translation System">
-    <div class="course">EE318 Innovation Experiment</div>
-    <div class="project-title"><a href="https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach" target="_blank">Sign Language Translation System</a></div>
-  </div>
-  <div class="project-card">
     <img src="/images/project4.png" alt="Autonomous Navigation-Grasping-Visual-Detection System">
     <div class="course">EE211 Robotic Perception and Intelligence</div>
     <div class="project-title"><a href="https://github.com/Wendy-Ying/Autonomous-Navigation-Grasping-Visual-Detection-System" target="_blank">Autonomous Navigation-Grasping-Visual-Detection System</a></div>
   </div>
   <div class="project-card">
-    <img src="/images/project5.png" alt="Intelligent Image Scaling System Based on Seam Carving Algorithm">
-    <div class="course">CS203 Data Structure and Algorithm Analysis</div>
-    <div class="project-title"><a href="https://github.com/Wendy-Ying/Intelligent-Image-Scaling-System-Based-on-Seam-Carving-Algorithm" target="_blank">Intelligent Image Scaling System Based on Seam Carving Algorithm</a></div>
+    <img src="/images/project10.png" alt="Fully Automated, Highly Compatible Detection Combat Investigated UAV">
+    <div class="course">College Students' Innovative Training Program</div>
+    <div class="project-title"><a href="https://github.com/Wendy-Ying/Fully-Automated-Highly-Compatible-Detection-Combat-Investigated-UAV" target="_blank">Fully Automated, Highly Compatible Detection Combat Investigated UAV</a></div>
+  </div>
+  <div class="project-card">
+    <img src="/images/project3.png" alt="Sign Language Translation System">
+    <div class="course">EE318 Innovation Experiment</div>
+    <div class="project-title"><a href="https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach" target="_blank">Chinese Sign Language Translation System</a></div>
   </div>
   <div class="project-card">
     <img src="/images/project6.png" alt="AI4I Binary Classification Prediction">
@@ -79,9 +79,29 @@ My research interests focus on **robot learning**. I have also been involved in 
     <div class="project-title"><a href="https://github.com/Wendy-Ying/Smart-Combination-Lock" target="_blank">Smart Combination Lock</a></div>
   </div>
   <div class="project-card">
-    <img src="/images/project8.png" alt="Electronic Ocarina">
+    <img src="/images/project9.png" alt="Electronic Ocarina">
     <div class="course">EE201 Analog Circuit</div>
     <div class="project-title"><a href="https://github.com/Wendy-Ying/Electronic-Ocarina" target="_blank">Electronic Ocarina</a></div>
+  </div>
+  <div class="project-card">
+    <img src="/images/project8.png" alt="Fast Positioning Indoor Vehicle with Visual Gimbal Based on UWB and ROS">
+    <div class="course">EE202 Digital Circuit</div>
+    <div class="project-title"><a href="https://github.com/Wendy-Ying/Fast-Positioning-Indoor-Vehicle-with-Visual-Gimbal-Based-on-UWB-and-ROS" target="_blank">Fast Positioning Indoor Vehicle with Visual Gimbal Based on UWB and ROS</a></div>
+  </div>
+  <div class="project-card">
+    <img src="/images/project11.png" alt="PokeSnap">
+    <div class="course">EE351 Microprocessors and Microsystems</div>
+    <div class="project-title"><a href="https://github.com/Wendy-Ying/PokeSnap" target="_blank">PokeSnap: A Pokemon Detection and Polaroid System</a></div>
+  </div>
+  <div class="project-card">
+    <img src="/images/project5.png" alt="Intelligent Image Scaling System Based on Seam Carving Algorithm">
+    <div class="course">CS203 Data Structure and Algorithm Analysis</div>
+    <div class="project-title"><a href="https://github.com/Wendy-Ying/Intelligent-Image-Scaling-System-Based-on-Seam-Carving-Algorithm" target="_blank">Intelligent Image Scaling System Based on Seam Carving Algorithm</a></div>
+  </div>
+  <div class="project-card">
+    <img src="/images/project12.png" alt="Speech Synthesis And Perception With Envelope Cue">
+    <div class="course">EE205 Signals and Systems</div>
+    <div class="project-title"><a href="https://github.com/Wendy-Ying/Speech-Synthesis-And-Perception-With-Envelope-Cue" target="_blank">Speech Synthesis And Perception With Envelope Cue</a></div>
   </div>
 </div>
 
