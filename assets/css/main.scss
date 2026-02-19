@@ -113,9 +113,9 @@ h1:before, .anchor:before {
 .project-grid {
     display: flex;
     flex-wrap: wrap;
-    gap: 1.2em;
+    gap: 1.5em;
     justify-content: flex-start;
-    max-width: 700px;
+    max-width: 800px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -124,8 +124,8 @@ h1:before, .anchor:before {
     border: 1px solid #eee;
     border-radius: 10px;
     box-shadow: 2px 2px 8px #eee;
-    width: 220px;
-    margin-bottom: 1.2em;
+    width: 360px;
+    margin-bottom: 1.5em;
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -136,8 +136,8 @@ h1:before, .anchor:before {
     box-shadow: 2px 4px 16px #bbb;
 }
 .project-card img {
-    width: 180px;
-    height: 90px;
+    width: 360px;
+    height: 270px;
     object-fit: cover;
     background: #f8f8f8;
     margin-top: 1em;
