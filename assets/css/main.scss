@@ -109,19 +109,23 @@ h1:before, .anchor:before {
 }
 
 // Project cards grid and card style
+
 .project-grid {
     display: flex;
     flex-wrap: wrap;
-    gap: 1.5em;
+    gap: 1.2em;
     justify-content: flex-start;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .project-card {
-    background: #fff;
+    background: linear-gradient(135deg, #f6f8fc 80%, #eaf0fa 100%);
     border: 1px solid #eee;
     border-radius: 10px;
     box-shadow: 2px 2px 8px #eee;
-    width: 260px;
-    margin-bottom: 1.5em;
+    width: 220px;
+    margin-bottom: 1.2em;
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -132,19 +136,22 @@ h1:before, .anchor:before {
     box-shadow: 2px 4px 16px #bbb;
 }
 .project-card img {
-    width: 100%;
-    height: 140px;
+    width: 180px;
+    height: 90px;
     object-fit: cover;
     background: #f8f8f8;
+    margin-top: 1em;
+    border-radius: 6px;
 }
 .project-card .course {
-    font-size: 0.95em;
+    font-size: 0.92em;
     color: #00369f;
-    margin-top: 0.7em;
+    margin-top: 0.5em;
+    text-align: center;
 }
 .project-card .project-title {
     font-weight: bold;
-    font-size: 1.1em;
-    margin: 0.5em 0 1em 0;
+    font-size: 1em;
+    margin: 0.4em 0 0.8em 0;
     text-align: center;
 }
