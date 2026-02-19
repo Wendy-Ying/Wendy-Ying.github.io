@@ -41,14 +41,49 @@ My research interests focus on **robot learning**. I have also been involved in 
 
 # 🛠 Projects
 
-- ``EE346 Mobile Robot Navigation and Control`` <a href='https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab'>Mobile Robot Navigation and Homing</a>
-- ``EE368 Robotic Motion and Control`` <a href='https://github.com/Wendy-Ying/rrt_planner'>Efficient Path Planning and Grasping for a Robotic Arm Using RRT</a>
-- ``EE318 Innovation Experiment`` <a href='https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach'>Sign Language Translation System</a>
-- ``EE211 Robotic Perception and Intelligence`` <a href='https://github.com/Wendy-Ying/Autonomous-Navigation-Grasping-Visual-Detection-System'>Autonomous Navigation-Grasping-Visual-Detection System</a>
-- ``CS203 Data Sturcture and Algorithm Analysis`` <a href='https://github.com/Wendy-Ying/Intelligent-Image-Scaling-System-Based-on-Seam-Carving-Algorithm'>Intelligent Image Scaling System Based on Seam Carving Algorithm</a>
-- ``SDM274 Artificial Intelligence and Machine Learning`` <a href='https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction'>AI4I Binary Classification Prediction</a>
-- ``EE332 Digital System Design`` <a href='https://github.com/Wendy-Ying/Smart-Combination-Lock'>Smart Combination Lock</a>
-- ``EE201 Analog Circuit`` <a href='https://github.com/Wendy-Ying/Electronic-Ocarina'>Electronic Ocarina</a>
+
+<div class="project-grid">
+  <div class="project-card">
+    <img src="/images/project1.png" alt="Mobile Robot Navigation and Homing">
+    <div class="course">EE346 Mobile Robot Navigation and Control</div>
+    <div class="project-title"><a href="https://github.com/Wendy-Ying/Mobile-Robot-Navigation-and-Control-Lab" target="_blank">Mobile Robot Navigation and Homing</a></div>
+  </div>
+  <div class="project-card">
+    <img src="/images/project2.png" alt="Efficient Path Planning and Grasping for a Robotic Arm Using RRT">
+    <div class="course">EE368 Robotic Motion and Control</div>
+    <div class="project-title"><a href="https://github.com/Wendy-Ying/rrt_planner" target="_blank">Efficient Path Planning and Grasping for a Robotic Arm Using RRT</a></div>
+  </div>
+  <div class="project-card">
+    <img src="/images/project3.png" alt="Sign Language Translation System">
+    <div class="course">EE318 Innovation Experiment</div>
+    <div class="project-title"><a href="https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach" target="_blank">Sign Language Translation System</a></div>
+  </div>
+  <div class="project-card">
+    <img src="/images/project4.png" alt="Autonomous Navigation-Grasping-Visual-Detection System">
+    <div class="course">EE211 Robotic Perception and Intelligence</div>
+    <div class="project-title"><a href="https://github.com/Wendy-Ying/Autonomous-Navigation-Grasping-Visual-Detection-System" target="_blank">Autonomous Navigation-Grasping-Visual-Detection System</a></div>
+  </div>
+  <div class="project-card">
+    <img src="/images/project5.png" alt="Intelligent Image Scaling System Based on Seam Carving Algorithm">
+    <div class="course">CS203 Data Structure and Algorithm Analysis</div>
+    <div class="project-title"><a href="https://github.com/Wendy-Ying/Intelligent-Image-Scaling-System-Based-on-Seam-Carving-Algorithm" target="_blank">Intelligent Image Scaling System Based on Seam Carving Algorithm</a></div>
+  </div>
+  <div class="project-card">
+    <img src="/images/project6.png" alt="AI4I Binary Classification Prediction">
+    <div class="course">SDM274 Artificial Intelligence and Machine Learning</div>
+    <div class="project-title"><a href="https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction" target="_blank">AI4I Binary Classification Prediction</a></div>
+  </div>
+  <div class="project-card">
+    <img src="/images/project7.png" alt="Smart Combination Lock">
+    <div class="course">EE332 Digital System Design</div>
+    <div class="project-title"><a href="https://github.com/Wendy-Ying/Smart-Combination-Lock" target="_blank">Smart Combination Lock</a></div>
+  </div>
+  <div class="project-card">
+    <img src="/images/project8.png" alt="Electronic Ocarina">
+    <div class="course">EE201 Analog Circuit</div>
+    <div class="project-title"><a href="https://github.com/Wendy-Ying/Electronic-Ocarina" target="_blank">Electronic Ocarina</a></div>
+  </div>
+</div>
 
 # 📖 Educations
 - 2022.09 - present, **Bachelor of Engineering in Information Engineering**, Department of Electronic and Electrical Engineering, Southern University of Science and Technology.

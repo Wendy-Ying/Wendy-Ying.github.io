@@ -107,3 +107,44 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+// Project cards grid and card style
+.project-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5em;
+    justify-content: flex-start;
+}
+.project-card {
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px #eee;
+    width: 260px;
+    margin-bottom: 1.5em;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: box-shadow 0.2s;
+}
+.project-card:hover {
+    box-shadow: 2px 4px 16px #bbb;
+}
+.project-card img {
+    width: 100%;
+    height: 140px;
+    object-fit: cover;
+    background: #f8f8f8;
+}
+.project-card .course {
+    font-size: 0.95em;
+    color: #00369f;
+    margin-top: 0.7em;
+}
+.project-card .project-title {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 0.5em 0 1em 0;
+    text-align: center;
+}
