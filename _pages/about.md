@@ -107,7 +107,7 @@ My research interests focus on **robot learning**. I have also been involved in 
 
 # 📖 Educations
 - 2022.09 - present, **Bachelor of Engineering in Information Engineering**, Department of Electronic and Electrical Engineering, Southern University of Science and Technology.
-- 2019.09 - 2022.06, **High School Student**, No.2 High School of East China Normal University.
+- 2019.09 - 2022.06, No.2 High School of East China Normal University.
 
 # 💻 Internships
 - 2025.01 - 2025.09, Research Intern, [FAST Lab](http://zju-fast.com/research-group/fei-gao/), Zhejiang University.
@@ -120,9 +120,9 @@ My research interests focus on **robot learning**. I have also been involved in 
 - 2024, **Student Model of Excellence**, Southern University of Science and Technology. (Top 7 among all undergraduates, 5000±)
 - 2025, **Guo Xie Birong Scholarship for Academic Excellence**, Southern University of Science and Technology. (Top 40 among all undergraduates, 5000±)
 - 2024, **Guo Xie Birong Scholarship for Academic Excellence**, Southern University of Science and Technology. (Top 20 among all undergraduates, 5000±)
-- 2023, **First Prize**, Guangdong Province, National University Mathmetics Competition. (Top 7%)
+- 2023, **First Prize, Guangdong Province**, National University Mathematics Competition. (Top 7%)
 
 # 📚 Student Works
-- 2024.09 - 2026.08, **President of Student Union**, in Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
-- 2024.12 - 2025.01, **Peer Mentor for Undergraduate Course "Signals and Systems"**, in Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
-- 2023.09 - 2024.08, **Head of the Photography Department**, in the Converged Media Center, Propaganda and Public Relations Department of the Party Committee in Southern University of Science and Technology.
+- 2024.09 - 2026.08, **President, Student Union of the Department of Electronic and Electrical Engineering**, Southern University of Science and Technology.
+- 2024.12 - 2025.01, **Peer Mentor for Undergraduate Course "Signals and Systems"**, Department of Electronic and Electrical Engineering, Southern University of Science and Technology.
+- 2023.09 - 2024.08, **Head of the Photography Department**, Converged Media Center, Propaganda and Public Relations Department of the Party Committee, Southern University of Science and Technology.
