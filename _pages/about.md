@@ -24,7 +24,7 @@ I am a senior student from the Department of Electronic and Electrical Engineeri
 My research interests focus on **robot learning**. I have also been involved in research spanning motion planning, SLAM, machine learning, and computer vision. My personal CV is attached <a href='/cv/resume.pdf'>here</a>. If you are interested in my research or have any questions, please feel free to contact me at <a href='mailto:yingyw2022@mail.sustech.edu.cn'>yingyw2022@mail.sustech.edu.cn</a>.
 
 # 🔥 News
-- *2026.01* : &nbsp; All my [work](https://github.com/Wendy-Ying/SUSTech-Homeworks-and-Projects) and [notes](https://github.com/Wendy-Ying/SUSTech-Lecture-Notes) in SUSTech has been open source!
+- *2026.01* : &nbsp; ✨ All my [work](https://github.com/Wendy-Ying/SUSTech-Homeworks-and-Projects) and [notes](https://github.com/Wendy-Ying/SUSTech-Lecture-Notes) in SUSTech has been open-sourced!
 - *2025.10* : &nbsp; 🎉 Our paper MfNeuPAN is accepted by IEEE ROBIO 2025.
 
 # 📝 Publications 
@@ -123,7 +123,6 @@ My research interests focus on **robot learning**. I have also been involved in 
 - 2023, **First Prize**, Guangdong Province, National University Mathmetics Competition. (Top 7%)
 
 # 📚 Student Works
-- 2025.09 - 2026.08, **President of Student Union (Honor)**, of Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
-- 2024.09 - 2025.08, **President of Student Union**, of Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
+- 2024.09 - 2026.08, **President of Student Union**, in Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
 - 2024.12 - 2025.01, **Peer Mentor for Undergraduate Course "Signals and Systems"**, in Deptartment of Electronic and Electrical Engineering in Southern University of Science and Technology.
 - 2023.09 - 2024.08, **Head of the Photography Department**, in the Converged Media Center, Propaganda and Public Relations Department of the Party Committee in Southern University of Science and Technology.
