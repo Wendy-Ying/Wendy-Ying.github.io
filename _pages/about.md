@@ -106,7 +106,7 @@ My research interests focus on **robot learning**. I have also been involved in 
   <div class="project-card">
     <img src="/images/project13.png" alt="">
     <div class="course">CS303 Artificial Intelligence</div>
-    <div class="project-title"><a href="https://github.com/Wendy-Ying/Reversed-Reversi" target="_blank">Reversed Reversi/a></div>
+    <div class="project-title"><a href="https://github.com/Wendy-Ying/Reversed-Reversi" target="_blank">Reversed Reversi</a></div>
   </div>
   <div class="project-card">
     <img src="/images/project14.png" alt="">
