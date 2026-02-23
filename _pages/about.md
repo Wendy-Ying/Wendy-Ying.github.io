@@ -66,11 +66,11 @@ My research interests focus on **robot learning**. I have also been involved in 
   <div class="project-card">
     <img src="/images/project3.png" alt="Sign Language Translation System">
     <div class="course">EE318 Innovation Experiment</div>
-    <div class="project-title"><a href="https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach" target="_blank">Chinese Sign Language Translation System</a></div>
+    <div class="project-title"><a href="https://github.com/Wendy-Ying/Sign-Language-Translation-System-Based-on-Visual-Approach" target="_blank">Visual-Based Sign Language Translation System</a></div>
   </div>
   <div class="project-card">
     <img src="/images/project6.png" alt="AI4I Binary Classification Prediction">
-    <div class="course">SDM274 Artificial Intelligence and Machine Learning</div>
+    <div class="course">SDM274 AI and Machine Learning</div>
     <div class="project-title"><a href="https://github.com/Wendy-Ying/AI4I-Binary-Classification-Prediction" target="_blank">AI4I Binary Classification Prediction</a></div>
   </div>
   <div class="project-card">
@@ -102,6 +102,21 @@ My research interests focus on **robot learning**. I have also been involved in 
     <img src="/images/project12.png" alt="Speech Synthesis And Perception With Envelope Cue">
     <div class="course">EE205 Signals and Systems</div>
     <div class="project-title"><a href="https://github.com/Wendy-Ying/Speech-Synthesis-And-Perception-With-Envelope-Cue" target="_blank">Speech Synthesis And Perception With Envelope Cue</a></div>
+  </div>
+  <div class="project-card">
+    <img src="/images/project13.png" alt="">
+    <div class="course">CS303 Artificial Intelligence</div>
+    <div class="project-title"><a href="https://github.com/Wendy-Ying/Reversed-Reversi" target="_blank">Reversed Reversi/a></div>
+  </div>
+  <div class="project-card">
+    <img src="/images/project14.png" alt="">
+    <div class="course">EE317 Advanced Electronic Science Experiment</div>
+    <div class="project-title"><a href="https://github.com/Wendy-Ying/Android-APP" target="_blank">Android APP</a></div>
+  </div>
+  <div class="project-card">
+    <img src="/images/project15.png" alt="">
+    <div class="course">EE323 Digital Signal Processing</div>
+    <div class="project-title"><a href="https://github.com/Wendy-Ying/Computer-Generate-Music" target="_blank">Computer-Generated Music</a></div>
   </div>
 </div>
 
