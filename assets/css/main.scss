@@ -1,16 +1,4 @@
----
----
-
-/*
- *    Minimal Mistakes Jekyll Theme
- *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
- *
-*/
-
-@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "vendor/breakpoint/breakpoint";
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
@@ -66,29 +54,36 @@
         max-width: 100%;
         order: 1;
 
+            /* Paper title color */
+            .paper-title {
+                color: #00369f;
+                font-weight: bold;
+                font-size: 1.08em;
+                margin-bottom: 0.3em;
+            }
+
     .paper-box-links {
         margin-top: 0.5em;
         display: flex;
         flex-wrap: wrap;
         gap: 0.5em;
     }
-    .paper-link-badge {
-        display: inline-block;
-        padding: 0.2em 0.7em;
-        border-radius: 12px;
-        background: #00369f;
-        color: #fff;
-        font-size: 0.78em;
-        font-weight: 500;
-        text-decoration: none;
-        transition: background 0.2s;
-        border: 1px solid #00369f;
-    }
-    .paper-link-badge:hover {
-        background: #2356c8;
-        color: #fff;
-        text-decoration: underline;
-    }
+        .paper-link-badge {
+            display: inline-block;
+            padding: 0.18em 0.7em;
+            border-radius: 12px;
+            background: #00369f;
+            color: #fff;
+            font-size: 0.78em;
+            font-weight: 500;
+            text-decoration: none;
+            border: 1.5px solid #2356c8;
+            box-shadow: none;
+            transition: box-shadow 0.2s;
+        }
+        .paper-link-badge:hover {
+            box-shadow: 2px 4px 16px #bbb;
+        }
     }
     
     @include breakpoint($medium) {

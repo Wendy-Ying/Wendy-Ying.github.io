@@ -28,19 +28,21 @@ My research interests focus on **robot learning**. I have also been involved in 
 - *2025.10* : &nbsp; 🎉 Our paper MfNeuPAN is accepted by IEEE ROBIO 2025.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2025</div><img src='/images/MfNeuPAN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+
+<div class='paper-box-image'><div><div class="badge">ROBIO 2025</div><img src='/images/MfNeuPAN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-MfNeuPAN: Proactive End-to-End Navigation in Dynamic Environments via Direct Multi-Frame Point Constraints
+<span class="paper-title">MfNeuPAN: Proactive End-to-End Navigation in Dynamic Environments via Direct Multi-Frame Point Constraints</span>
 
 **Yiwen Ying**, Hanjing Ye, Senzi Luo, Luyao Liu, Yu Zhan, Li He and Hong Zhang
 
 <div class="paper-box-links">
     <a href="https://ieeexplore.ieee.org/document/11377233" class="paper-link-badge" target="_blank">IEEE Xplore</a>
-    <a href="https://arxiv.org/abs/2511.17013" class="paper-link-badge" target="_blank">arxiv</a>
+    <a href="https://arxiv.org/abs/2511.17013" class="paper-link-badge" target="_blank">arXiv</a>
 </div>
 
-</div> 
+</div>
 </div>
 
 
