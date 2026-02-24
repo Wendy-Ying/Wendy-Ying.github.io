@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Welcome to Yiwen Ying's Homepage!"
-description              : "Focusing on Motion Planning."
+description              : "Focusing on Robotics."
 repository               : "Wendy-Ying/Wendy-Ying.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/favicon-512x512.png"
   photo            : "images/photo.png"
   bio              : "Senior Student at SUSTech"
-  location         : "Shenzhen, China"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=amrm3eEAAAAJ"
