@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, there! 👋 Welcome to Yiwen Ying's Homepage.
 
-I am a senior student from the Department of Electronic and Electrical Engineering in [**Southern University of Science and Technology**](https://www.sustech.edu.cn). I have built a comprehensive background in robotics and AI under the guidance of [Prof. Hong Zhang](https://scholar.google.com/citations?user=J7UkpAIAAAAJ&hl=zh-CN) at the [Robotics and Computer Vision Lab](https://rcvlab.eee.sustech.edu.cn/), [SUSTech](https://sustech.edu.cn/), and [Prof. Fei Gao](https://scholar.google.com/citations?user=4RObDv0AAAAJ&hl=zh-CN) at [FASTLAB](http://www.zju-fast.com/), [ZJU](https://www.zju.edu.cn/).
+I am a senior student from the Department of Electronic and Electrical Engineering in [**Southern University of Science and Technology**](https://www.sustech.edu.cn). I have built a comprehensive background in robotics and AI under the guidance of [Prof. Hong Zhang](https://scholar.google.com/citations?user=J7UkpAIAAAAJ&hl=zh-CN) at the [Robotics and Computer Vision Lab](https://rcvlab.eee.sustech.edu.cn/), [SUSTech](https://sustech.edu.cn/), and [Prof. Fei Gao](https://scholar.google.com/citations?user=4RObDv0AAAAJ&hl=zh-CN) at the [FASTLAB](http://www.zju-fast.com/), [ZJU](https://www.zju.edu.cn/).
 
 My research interests focus on **robot learning**. I have also been involved in research spanning motion planning, SLAM, machine learning, and computer vision. My personal CV is attached <a href='/cv/resume.pdf'>here</a>. If you are interested in my research or have any questions, please feel free to contact me at <a href='mailto:yingyw2022@mail.sustech.edu.cn'>yingyw2022@mail.sustech.edu.cn</a>.
 
@@ -31,9 +31,14 @@ My research interests focus on **robot learning**. I have also been involved in 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2025</div><img src='/images/MfNeuPAN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MfNeuPAN: Proactive End-to-End Navigation in Dynamic Environments via Direct Multi-Frame Point Constraints](https://arxiv.org/abs/2511.17013)
+MfNeuPAN: Proactive End-to-End Navigation in Dynamic Environments via Direct Multi-Frame Point Constraints
 
 **Yiwen Ying**, Hanjing Ye, Senzi Luo, Luyao Liu, Yu Zhan, Li He and Hong Zhang
+
+<div class="paper-box-links">
+    <a href="https://ieeexplore.ieee.org/document/11377233" class="paper-link-badge" target="_blank">IEEE Xplore</a>
+    <a href="https://arxiv.org/abs/2511.17013" class="paper-link-badge" target="_blank">arxiv</a>
+</div>
 
 </div> 
 </div>
