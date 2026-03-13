@@ -137,14 +137,13 @@ My research interests focus on **robot learning**. I have also been involved in 
 - 2023.06 - present, Research Intern, [RCV Lab](https://rcvlab.eee.sustech.edu.cn/), Southern University of Science and Technology.
 
 # 🎖 Honors and Awards
-- 2025, **Nominee of Seeking Truth Scholarship**, Southern University of Science and Technology. (Top 1+5 among all undergraduates, 5000±)
-- 2025, **Nominee of Student of the Year**, Southern University of Science and Technology. (Top 1+5 among all undergraduates, 5000±)
+- 2025, **Annual Student of the Year Nomination Award**, Southern University of Science and Technology. (Top 1+5 among all undergraduates, 5000±)
+- 2025, **Nomination Prize of School Motto 'Truth' Series Scholarship**, Southern University of Science and Technology. (Top 1+5 among all undergraduates, 5000±)
+- 2025, **JOYCE M.KUOK Scholarship Excellence Award**, Southern University of Science and Technology. (Top 40 among all undergraduates, 5000±)
 - 2024, **Student Model of Excellence**, Southern University of Science and Technology. (Top 7 among all undergraduates, 5000±)
-- 2025, **Guo Xie Birong Scholarship for Academic Excellence**, Southern University of Science and Technology. (Top 40 among all undergraduates, 5000±)
-- 2024, **Guo Xie Birong Scholarship for Academic Excellence**, Southern University of Science and Technology. (Top 20 among all undergraduates, 5000±)
 - 2023, **First Prize, Guangdong Province**, National University Mathematics Competition. (Top 7%)
 
 # 📚 Student Works
-- 2024.09 - 2026.08, **President, Student Union of the Department of Electronic and Electrical Engineering**, Southern University of Science and Technology.
+- 2024.09 - 2026.08, **President of Student Union in the Department of Electronic and Electrical Engineering**, Southern University of Science and Technology.
 - 2024.12 - 2025.01, **Peer Mentor for Undergraduate Course "Signals and Systems"**, Department of Electronic and Electrical Engineering, Southern University of Science and Technology.
 - 2023.09 - 2024.08, **Head of the Photography Department**, Converged Media Center, Propaganda and Public Relations Department of the Party Committee, Southern University of Science and Technology.
