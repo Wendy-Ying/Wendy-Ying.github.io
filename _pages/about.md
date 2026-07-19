@@ -25,7 +25,7 @@ My research interests focus on **robot learning**. I have also been involved in 
 
 # 🔥 News
 - *2026.01* : &nbsp; ✨ All my [work](https://github.com/Wendy-Ying/SUSTech-Homeworks-and-Projects) and [notes](https://github.com/Wendy-Ying/SUSTech-Lecture-Notes) in SUSTech has been open-sourced!
-- *2025.10* : &nbsp; 🎉 Our paper MfNeuPAN is accepted by IEEE ROBIO 2025.
+<!-- - *2025.10* : &nbsp; 🎉 Our paper MfNeuPAN is accepted by IEEE ROBIO 2025. -->
 
 # 📝 Publications 
 <div class='paper-box'>
