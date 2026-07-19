@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, there! 👋 Welcome to Yiwen Ying's Homepage.
 
-I am a senior student from the Department of Electronic and Electrical Engineering in [**Southern University of Science and Technology**](https://www.sustech.edu.cn). I have built a comprehensive background in robotics and AI under the guidance of [Prof. Hong Zhang](https://scholar.google.com/citations?user=J7UkpAIAAAAJ) at the [Robotics and Computer Vision Lab](https://rcvlab.eee.sustech.edu.cn/), [SUSTech](https://sustech.edu.cn/), and [Prof. Fei Gao](https://scholar.google.com/citations?user=4RObDv0AAAAJ) at the [FASTLAB](http://www.zju-fast.com/), [ZJU](https://www.zju.edu.cn/).
+I hold a Bachelor’s degree in Information Engineering from the Department of Electronic and Electrical Engineering in [**Southern University of Science and Technology**](https://www.sustech.edu.cn). I have built a comprehensive background in robotics and AI under the guidance of [Prof. Hong Zhang](https://scholar.google.com/citations?user=J7UkpAIAAAAJ) at the [Robotics and Computer Vision Lab](https://rcvlab.eee.sustech.edu.cn/), [SUSTech](https://sustech.edu.cn/), and [Prof. Fei Gao](https://scholar.google.com/citations?user=4RObDv0AAAAJ) at the [FASTLAB](http://www.zju-fast.com/), [ZJU](https://www.zju.edu.cn/).
 
 My research interests focus on **robot learning**. I have also been involved in research spanning motion planning, SLAM, machine learning, and computer vision. My personal CV is attached <a href='/cv/resume.pdf'>here</a>. If you are interested in my research or have any questions, please feel free to contact me at <a href='mailto:yingyw2022@mail.sustech.edu.cn'>yingyw2022@mail.sustech.edu.cn</a>.
 
@@ -128,13 +128,13 @@ My research interests focus on **robot learning**. I have also been involved in 
 </div>
 
 # 📖 Educations
-- 2022.09 - present, **Bachelor of Engineering in Information Engineering**, Department of Electronic and Electrical Engineering, Southern University of Science and Technology.
+- 2022.09 - 2026.06, **Bachelor of Engineering in Information Engineering**, Department of Electronic and Electrical Engineering, Southern University of Science and Technology.
 - 2019.09 - 2022.06, No.2 High School of East China Normal University.
 
 # 💻 Internships
 - 2025.01 - 2025.09, Research Intern, [FAST Lab](http://zju-fast.com/research-group/fei-gao/), Zhejiang University.
 - 2024.08 - 2024.11, Research Intern, CV-AI Lab, Tsinghua University.
-- 2023.06 - present, Research Intern, [RCV Lab](https://rcvlab.eee.sustech.edu.cn/), Southern University of Science and Technology.
+- 2023.06 - 2026.06, Research Intern, [RCV Lab](https://rcvlab.eee.sustech.edu.cn/), Southern University of Science and Technology.
 
 # 🎖 Honors and Awards
 - 2025, **Annual Student of the Year Nomination Award**, Southern University of Science and Technology. (Top 1+5 among all undergraduates, 5000±)
