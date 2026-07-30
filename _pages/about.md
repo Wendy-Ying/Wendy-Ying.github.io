@@ -132,9 +132,9 @@ My research interests focus on **robot learning**. I have also been involved in 
 - 2019.09 - 2022.06, No.2 High School of East China Normal University.
 
 # 💻 Internships
+- 2023.06 - 2026.06, Research Intern, [RCV Lab](https://rcvlab.eee.sustech.edu.cn/), Southern University of Science and Technology.
 - 2025.01 - 2025.09, Research Intern, [FAST Lab](http://zju-fast.com/research-group/fei-gao/), Zhejiang University.
 - 2024.08 - 2024.11, Research Intern, CV-AI Lab, Tsinghua University.
-- 2023.06 - 2026.06, Research Intern, [RCV Lab](https://rcvlab.eee.sustech.edu.cn/), Southern University of Science and Technology.
 
 # 🎖 Honors and Awards
 - 2025, **Annual Student of the Year Nomination Award**, Southern University of Science and Technology. (Top 1+5 among all undergraduates, 5000±)
