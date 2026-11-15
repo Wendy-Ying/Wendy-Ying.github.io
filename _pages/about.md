@@ -34,7 +34,7 @@ My research interests focus on **robot learning**. I have also been involved in 
 - 2022.09 - 2026.06, **Bachelor of Engineering in Information Engineering**, Department of Electronic and Electrical Engineering, Southern University of Science and Technology.
 - 2019.09 - 2022.06, No.2 High School of East China Normal University.
 
-# 💻 Research Experience
+# 💻 Research Experiences
 - 2026.08 - Present, Postgraduate Researcher, IADC, Hong Kong University of Science and Technology (Guangzhou).
 - 2023.06 - 2026.06, Undergraduate Researcher, [RCV Lab](https://rcvlab.eee.sustech.edu.cn/), Southern University of Science and Technology.
 - 2025.01 - 2025.09, Research Intern, [FAST Lab](http://zju-fast.com/research-group/fei-gao/), Zhejiang University.
