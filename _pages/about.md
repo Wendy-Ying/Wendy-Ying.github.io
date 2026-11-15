@@ -19,9 +19,11 @@ redirect_from:
 
 Hi, there! 👋 Welcome to Yiwen Ying's Homepage.
 
+I am currently pursuing an Master of Philosophy (MPhil) in Robotics and Autonomous Systems at the Systems Hub, [**Hong Kong University of Science and Technology (Guangzhou)**](https://www.hkust-gz.edu.cn/), where I am a member of the Intelligent Autonomous Driving Center (IADC) under the guidance of [Prof. Jun MA](https://scholar.google.com/citations?user=8VepsVAAAAAJ) and [Prof. Jinni ZHOU](https://scholar.google.com/citations?user=It7O9M0AAAAJ).
+
 I hold a Bachelor’s degree in Information Engineering from the Department of Electronic and Electrical Engineering in [**Southern University of Science and Technology**](https://www.sustech.edu.cn). I have built a comprehensive background in robotics and AI under the guidance of [Prof. Hong Zhang](https://scholar.google.com/citations?user=J7UkpAIAAAAJ) at the [Robotics and Computer Vision Lab](https://rcvlab.eee.sustech.edu.cn/), [SUSTech](https://sustech.edu.cn/), and [Prof. Fei Gao](https://scholar.google.com/citations?user=4RObDv0AAAAJ) at the [FASTLAB](http://www.zju-fast.com/), [ZJU](https://www.zju.edu.cn/).
 
-My research interests focus on **robot learning**. I have also been involved in research spanning motion planning, SLAM, machine learning, and computer vision. My personal CV is attached <a href='/cv/resume.pdf'>here</a>. If you are interested in my research or have any questions, please feel free to contact me at <a href='mailto:yingyw2022@mail.sustech.edu.cn'>yingyw2022@mail.sustech.edu.cn</a>.
+My research interests focus on **robot learning**. I have also been involved in research spanning motion planning, SLAM, machine learning, and computer vision. My personal CV is attached <a href='/cv/resume.pdf'>here</a>. If you are interested in my research or have any questions, please feel free to contact me at <a href='mailto:yiwen.ying@connect.hkust-gz.edu.cn'>yiwen.ying@connect.hkust-gz.edu.cn</a>.
 
 # 🔥 News
 - *2026.01* : &nbsp; ✨ All my [work](https://github.com/Wendy-Ying/SUSTech-Homeworks-and-Projects) and [notes](https://github.com/Wendy-Ying/SUSTech-Lecture-Notes) in SUSTech has been open-sourced!
@@ -46,8 +48,17 @@ My research interests focus on **robot learning**. I have also been involved in 
 </div>
 
 
-# 🛠 Projects
+# 📖 Educations
+- 2022.09 - 2026.06, **Bachelor of Engineering in Information Engineering**, Department of Electronic and Electrical Engineering, Southern University of Science and Technology.
+- 2019.09 - 2022.06, No.2 High School of East China Normal University.
 
+# 💻 Internships
+- 2023.06 - 2026.06, Research Intern, [RCV Lab](https://rcvlab.eee.sustech.edu.cn/), Southern University of Science and Technology.
+- 2025.01 - 2025.09, Research Intern, [FAST Lab](http://zju-fast.com/research-group/fei-gao/), Zhejiang University.
+- 2024.08 - 2024.11, Research Intern, CV-AI Lab, Tsinghua University.
+
+
+# 🛠 Projects
 
 <div class="project-grid">
   <div class="project-card">
@@ -127,14 +138,6 @@ My research interests focus on **robot learning**. I have also been involved in 
   </div>
 </div>
 
-# 📖 Educations
-- 2022.09 - 2026.06, **Bachelor of Engineering in Information Engineering**, Department of Electronic and Electrical Engineering, Southern University of Science and Technology.
-- 2019.09 - 2022.06, No.2 High School of East China Normal University.
-
-# 💻 Internships
-- 2023.06 - 2026.06, Research Intern, [RCV Lab](https://rcvlab.eee.sustech.edu.cn/), Southern University of Science and Technology.
-- 2025.01 - 2025.09, Research Intern, [FAST Lab](http://zju-fast.com/research-group/fei-gao/), Zhejiang University.
-- 2024.08 - 2024.11, Research Intern, CV-AI Lab, Tsinghua University.
 
 # 🎖 Honors and Awards
 - 2025, **Annual Student of the Year Nomination Award**, Southern University of Science and Technology. (Top 1+5 among all undergraduates, 5000±)
