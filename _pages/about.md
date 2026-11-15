@@ -30,6 +30,7 @@ My research interests focus on **robot learning**. I have also been involved in 
 <!-- - *2025.10* : &nbsp; 🎉 Our paper MfNeuPAN is accepted by IEEE ROBIO 2025. -->
 
 # 📖 Educations
+- 2026.09 - Present, **Master of Philosophy in Robotics and Autonomous Systems**, Systems Hub, Hong Kong University of Science and Technology (Guangzhou).
 - 2022.09 - 2026.06, **Bachelor of Engineering in Information Engineering**, Department of Electronic and Electrical Engineering, Southern University of Science and Technology.
 - 2019.09 - 2022.06, No.2 High School of East China Normal University.
 
